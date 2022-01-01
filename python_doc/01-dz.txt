@@ -1,0 +1,16 @@
+file = open('01.txt', 'r')
+content = int(file.readline())
+i = 0
+for line in file: 
+    s = line.split(',')
+    if len(s) > 1:
+        book_ref = s[0]
+        book_date = s[1]
+        total_amount = s[2].replace('\n','').split('.')
+        rub = total_amount[0]
+        kop = total_amount[1]
+        print(f'Номер бронирования {book_ref}, забронирован {book_date}. Цена: {rub} руб. {kop} коп.')
+        i += 1
+    if content == i:
+        break
+file.close()
