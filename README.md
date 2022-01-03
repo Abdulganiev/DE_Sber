@@ -1,2 +1,0 @@
-# stepic
-# DE_Sber
