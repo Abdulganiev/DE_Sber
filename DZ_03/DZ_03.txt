@@ -1,0 +1,120 @@
+#На сайте https://pythontutor.ru/ необходимо решить ряд задач
+
+####################Занятие 1 (Дележ яблок, Парты) +
+
+##Дележ яблок
+n = int(input())
+k = int(input())
+
+print(k // n)
+print(k % n)
+
+##Парты
+n1 = int(input())
+n2 = int(input())
+n3 = int(input())
+
+print(n1 // 2 + n2 // 2 + n3 // 2 + n1 % 2 + n2 % 2 + n3 % 2)
+
+#####################Занятие 2 (Високосный год, Шоколадка, Яша плавает в бассейне)
+
+##Високосный год
+n = int(input())
+
+if n % 400 == 0:
+    print('YES')
+elif (n % 4 == 0) and (n % 100) != 0:
+    print('YES')
+else:
+    print('NO')
+
+##Шоколадка
+n = int(input())
+m = int(input())
+k = int(input())
+
+if k < n * m and ((k % n == 0) or (k % m == 0)):
+    print('YES')
+else:
+    print('NO')
+
+##Яша плавает в бассейне
+n = int(input())
+m = int(input())
+x = int(input())
+y = int(input())
+
+long  = max(n, m)
+short = min(n, m)
+remains_long  = long  - y
+remains_short = short - x
+
+print(min(x, y, remains_long, remains_short))
+
+#####################Занятие 3 (Конец уроков, Улитка)
+##Конец уроков
+n = int(input())
+s = 45
+
+for i in range(1, n+1):
+    if i % 2 == 0:
+        change = 15
+    else:
+        change = 5
+    if n > i:
+        s += 45 + change
+
+hour = 9 + (s // 60)
+mn = s % 60
+
+print(hour, mn)
+
+##Улитка
+h = int(input())
+a = int(input())
+b = int(input())
+
+s = 0
+cnt = 0
+
+for i in range(h):
+    s += a
+    cnt += 1
+    if s >= h:
+        break
+    else:
+        s -= b
+
+print(cnt)
+
+#####################Занятие 4 (Сумма N чисел, Количество нулей)
+##Сумма N чисел
+#v1
+
+s = 0
+
+for i in range(int(input())):
+    s += int(input())
+
+print(s)
+
+#v2
+s = [int(input()) for i in range(int(input()))]
+
+print(sum(s))
+
+##Количество нулей
+# v1
+n = int(input())
+cnt = 0
+
+for i in range(n):
+    if int(input()) == 0:
+        cnt += 1
+
+print(cnt)
+
+#v2
+cnt = [1 for i in range(int(input())) if int(input()) == 0]
+
+print(sum(cnt))
