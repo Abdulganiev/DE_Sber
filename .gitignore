@@ -6,3 +6,5 @@ __pycache__/
 env30/
 python_doc/data/
 *.bat
+*.csv
+.DS_Store
