@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+Untitled*.ipynb
+env/
+__pycache__/
+*.db
+env30/
+python_doc/data/
+*.bat
