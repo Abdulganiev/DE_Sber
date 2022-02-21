@@ -8,3 +8,6 @@ python_doc/data/
 *.bat
 *.csv
 .DS_Store
+*.docx
+*.jpg
+out
