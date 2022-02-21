@@ -1,0 +1,1147 @@
+2022-02-05 00:31:01 : Ошибка удаления таблицы de1h.s_00_stg_terminals
+2022-02-05 00:31:01 : de1h.s_00_stg_terminals создана
+2022-02-05 00:31:08 : Ошибка удаления таблицы de1h.s_00_stg_terminals
+2022-02-05 00:31:08 : de1h.s_00_stg_terminals создана
+2022-02-05 00:31:34 : Ошибка удаления таблицы de1h.s_00_stg_terminals
+2022-02-05 00:31:34 : de1h.s_00_stg_terminals создана
+2022-02-05 00:31:40 : Ошибка удаления таблицы de1h.s_00_stg_terminals
+2022-02-05 00:31:40 : de1h.s_00_stg_terminals создана
+2022-02-05 00:33:58 : Ошибка удаления таблицы de1h.s_00_stg_terminals
+2022-02-05 00:33:58 : de1h.s_00_stg_terminals создана
+2022-02-05 00:34:22 : Ошибка удаления таблицы de1h.s_00_stg_terminals
+2022-02-05 00:34:22 : de1h.s_00_stg_terminals создана
+2022-02-05 00:37:18 : Ошибка удаления таблицы de1h.s_00_stg_terminals
+2022-02-05 00:37:18 : Ошибка создание de1h.s_00_stg_terminals
+2022-02-05 00:37:25 : Ошибка удаления таблицы de1h.s_00_stg_terminals
+2022-02-05 00:37:25 : Ошибка создание de1h.s_00_stg_terminals
+2022-02-05 00:37:43 : Ошибка удаления таблицы de1h.s_00_stg_terminals
+2022-02-05 00:37:43 : de1h.s_00_stg_terminals создана
+2022-02-05 00:37:48 : Ошибка удаления таблицы de1h.s_00_stg_terminals
+2022-02-05 00:37:49 : Ошибка создание de1h.s_00_stg_terminals
+2022-02-05 00:37:58 : Ошибка удаления таблицы de1h.s_00_stg_terminals
+2022-02-05 00:37:58 : Ошибка создание de1h.s_00_stg_terminals
+2022-02-05 00:38:13 : Таблица de1h.s_00_stg_terminals удалена
+2022-02-05 00:38:13 : de1h.s_00_stg_terminals создана
+2022-02-05 00:47:06 : Таблица de1h.s_00_stg_terminals удалена
+2022-02-05 00:47:06 : de1h.s_00_stg_terminals создана
+2022-02-05 00:58:49 : Таблица de1h.s_00_stg_terminals удалена
+2022-02-05 00:58:49 : Ошибка создание de1h.s_00_stg_terminals
+2022-02-05 00:59:31 : Ошибка удаления таблицы de1h.s_00_stg_terminals
+2022-02-05 01:00:39 : Ошибка удаления таблицы de1h.s_00_stg_terminals
+2022-02-05 01:04:17 : Ошибка удаления таблицы de1h.s_00_stg_terminals
+2022-02-05 01:05:41 : Ошибка удаления таблицы de1h.s_00_stg_terminals
+2022-02-05 01:06:31 : Ошибка удаления таблицы de1h.s_00_stg_terminals
+2022-02-05 01:09:06 : Ошибка удаления таблицы de1h.s_00_stg_terminals
+2022-02-05 01:27:25 : passport_blacklist_01032021.xlsx,terminals_01032021.xlsx,transactions_01032021.txt готовы к обработке
+2022-02-05 01:27:25 : Ошибка удаления таблицы de1h.s_00_stg_terminals
+2022-02-05 01:27:25 : de1h.s_00_stg_terminals создана
+2022-02-05 01:27:27 : terminals_01032021.xlsxзагружен в датафрейм
+2022-02-05 01:28:00 : passport_blacklist_01032021.xlsx,terminals_01032021.xlsx,transactions_01032021.txt готовы к обработке
+2022-02-05 01:28:01 : Таблица de1h.s_00_stg_terminals удалена
+2022-02-05 01:28:01 : de1h.s_00_stg_terminals создана
+2022-02-05 01:28:02 : terminals_01032021.xlsxзагружен в датафрейм
+2022-02-05 01:28:35 : passport_blacklist_01032021.xlsx,terminals_01032021.xlsx,transactions_01032021.txt готовы к обработке
+2022-02-05 01:28:36 : Таблица de1h.s_00_stg_terminals удалена
+2022-02-05 01:28:36 : de1h.s_00_stg_terminals создана
+2022-02-05 01:28:37 : terminals_01032021.xlsxзагружен в датафрейм
+2022-02-05 01:28:37 : Данные загружены в de1h.s_00_stg_terminals
+2022-02-05 01:34:35 : passport_blacklist_01032021.xlsx,terminals_01032021.xlsx,transactions_01032021.txt готовы к обработке
+2022-02-05 01:34:35 : Таблица de1h.s_00_stg_terminals удалена
+2022-02-05 01:34:35 : de1h.s_00_stg_terminals создана
+2022-02-05 01:34:36 : terminals_01032021.xlsxзагружен в датафрейм
+2022-02-05 01:34:36 : Данные загружены в de1h.s_00_stg_terminals
+2022-02-05 01:34:36 : Ошибка удаления таблицы de1h.s_00_stg_del_terminals
+2022-02-05 01:34:36 : Ошибка создание de1h.s_00_stg_del_terminals
+2022-02-05 01:34:37 : Ошибка удаления таблицы de1h.s_00_stg_del_terminals
+2022-02-05 01:34:37 : Ошибка создание de1h.s_00_stg_del_terminals
+2022-02-05 01:34:37 : Ошибка удаления таблицы de1h.s_00_stg_del_terminals
+2022-02-05 01:34:37 : Ошибка создание de1h.s_00_stg_del_terminals
+2022-02-05 01:52:41 : passport_blacklist_01032021.xlsx,terminals_01032021.xlsx,transactions_01032021.txt готовы к обработке
+2022-02-05 01:52:42 : de1h.s_00_dwh_dim_terminals_hist создана
+2022-02-05 01:52:42 : Таблица de1h.s_00_stg_terminals удалена
+2022-02-05 01:52:42 : de1h.s_00_stg_terminals создана
+2022-02-05 01:52:43 : terminals_01032021.xlsxзагружен в датафрейм
+2022-02-05 01:52:43 : Данные загружены в de1h.s_00_stg_terminals
+2022-02-05 01:52:43 : Ошибка удаления таблицы de1h.s_00_stg_del_terminals
+2022-02-05 01:52:43 : de1h.s_00_stg_del_terminals создана
+2022-02-05 01:52:43 : Таблица de1h.s_00_stg_del_terminals удалена
+2022-02-05 01:52:43 : de1h.s_00_stg_del_terminals создана
+2022-02-05 01:52:43 : Таблица de1h.s_00_stg_del_terminals удалена
+2022-02-05 01:52:44 : Ошибка создание de1h.s_00_stg_del_terminals
+2022-02-05 01:56:00 : passport_blacklist_01032021.xlsx,terminals_01032021.xlsx,transactions_01032021.txt готовы к обработке
+2022-02-05 01:56:01 : Таблица de1h.s_00_stg_terminals удалена
+2022-02-05 01:56:01 : de1h.s_00_stg_terminals создана
+2022-02-05 01:56:02 : terminals_01032021.xlsxзагружен в датафрейм
+2022-02-05 01:56:02 : Данные загружены в de1h.s_00_stg_terminals
+2022-02-05 01:56:02 : Ошибка удаления таблицы de1h.s_00_stg_new_terminals
+2022-02-05 01:56:02 : de1h.s_00_stg_new_terminals создана
+2022-02-05 01:59:14 : passport_blacklist_01032021.xlsx,terminals_01032021.xlsx,transactions_01032021.txt готовы к обработке
+2022-02-05 01:59:30 : passport_blacklist_01032021.xlsx,terminals_01032021.xlsx,transactions_01032021.txt готовы к обработке
+2022-02-05 01:59:31 : Таблица de1h.s_00_stg_terminals удалена
+2022-02-05 01:59:31 : de1h.s_00_stg_terminals создана
+2022-02-05 01:59:32 : terminals_01032021.xlsxзагружен в датафрейм
+2022-02-05 01:59:32 : Данные загружены в de1h.s_00_stg_terminals
+2022-02-05 01:59:32 : Таблица de1h.s_00_stg_new_terminals удалена
+2022-02-05 01:59:32 : de1h.s_00_stg_new_terminals создана
+2022-02-05 02:04:13 : passport_blacklist_01032021.xlsx,terminals_01032021.xlsx,transactions_01032021.txt готовы к обработке
+2022-02-05 02:04:13 : Таблица de1h.s_00_stg_terminals удалена
+2022-02-05 02:04:13 : de1h.s_00_stg_terminals создана
+2022-02-05 02:04:14 : terminals_01032021.xlsxзагружен в датафрейм
+2022-02-05 02:04:16 : Данные загружены в de1h.s_00_stg_terminals, загружено 150 записей
+2022-02-05 02:04:16 : Таблица de1h.s_00_stg_new_terminals удалена
+2022-02-05 02:04:16 : de1h.s_00_stg_new_terminals создана
+2022-02-05 02:13:24 : passport_blacklist_01032021.xlsx,terminals_01032021.xlsx,transactions_01032021.txt готовы к обработке
+2022-02-05 02:13:25 : Таблица de1h.s_00_stg_terminals удалена
+2022-02-05 02:13:25 : de1h.s_00_stg_terminals создана
+2022-02-05 02:13:26 : terminals_01032021.xlsxзагружен в датафрейм
+2022-02-05 02:13:27 : Данные загружены в de1h.s_00_stg_terminals, загружено 150 записей
+2022-02-05 02:13:27 : Таблица de1h.s_00_stg_new_terminals удалена
+2022-02-05 02:13:27 : de1h.s_00_stg_new_terminals создана
+2022-02-05 02:14:12 : passport_blacklist_01032021.xlsx,terminals_01032021.xlsx,transactions_01032021.txt готовы к обработке
+2022-02-05 02:14:13 : Таблица de1h.s_00_stg_terminals удалена
+2022-02-05 02:14:13 : de1h.s_00_stg_terminals создана
+2022-02-05 02:14:13 : terminals_01032021.xlsxзагружен в датафрейм
+2022-02-05 02:14:14 : Данные загружены в de1h.s_00_stg_terminals, загружено 150 записей
+2022-02-05 02:14:14 : Таблица de1h.s_00_stg_new_terminals удалена
+2022-02-05 02:14:14 : de1h.s_00_stg_new_terminals создана
+2022-02-05 02:16:38 : passport_blacklist_01032021.xlsx,terminals_01032021.xlsx,transactions_01032021.txt готовы к обработке
+2022-02-05 02:16:39 : Таблица de1h.s_00_stg_terminals удалена
+2022-02-05 02:16:39 : de1h.s_00_stg_terminals создана
+2022-02-05 02:16:40 : terminals_01032021.xlsxзагружен в датафрейм
+2022-02-05 02:16:40 : Данные загружены в de1h.s_00_stg_terminals, загружено 150 записей
+2022-02-05 02:16:40 : Таблица de1h.s_00_stg_new_terminals удалена
+2022-02-05 02:16:40 : de1h.s_00_stg_new_terminals создана, загружено 150 записей
+2022-02-05 02:18:39 : passport_blacklist_01032021.xlsx,terminals_01032021.xlsx,transactions_01032021.txt готовы к обработке
+2022-02-05 02:18:40 : Таблица de1h.s_00_stg_terminals удалена
+2022-02-05 02:18:40 : de1h.s_00_stg_terminals создана
+2022-02-05 02:18:40 : terminals_01032021.xlsxзагружен в датафрейм
+2022-02-05 02:18:41 : Данные загружены в de1h.s_00_stg_terminals, загружено 150 записей
+2022-02-05 02:18:41 : Таблица de1h.s_00_stg_new_terminals удалена
+2022-02-05 02:18:41 : de1h.s_00_stg_new_terminals создана, загружено 150 записей
+2022-02-05 02:18:41 : Ошибка удаления таблицы de1h.s_00_stg_del_terminals
+2022-02-05 02:18:42 : de1h.s_00_stg_del_terminals создана, загружено 0 записей
+2022-02-05 02:19:55 : passport_blacklist_01032021.xlsx,terminals_01032021.xlsx,transactions_01032021.txt готовы к обработке
+2022-02-05 02:19:56 : Таблица de1h.s_00_stg_terminals удалена
+2022-02-05 02:19:56 : de1h.s_00_stg_terminals создана
+2022-02-05 02:19:57 : terminals_01032021.xlsxзагружен в датафрейм
+2022-02-05 02:19:57 : Данные загружены в de1h.s_00_stg_terminals, загружено 150 записей
+2022-02-05 02:19:57 : Таблица de1h.s_00_stg_new_terminals удалена
+2022-02-05 02:19:58 : de1h.s_00_stg_new_terminals создана, загружено 150 записей
+2022-02-05 02:19:58 : Таблица de1h.s_00_stg_del_terminals удалена
+2022-02-05 02:19:58 : de1h.s_00_stg_del_terminals создана, загружено 0 записей
+2022-02-05 02:19:58 : Ошибка удаления таблицы de1h.s_00_stg_chenge_terminals
+2022-02-05 02:19:58 : Ошибка создание de1h.s_00_stg_chenge_terminals
+2022-02-05 02:23:00 : passport_blacklist_01032021.xlsx,terminals_01032021.xlsx,transactions_01032021.txt готовы к обработке
+2022-02-05 02:23:01 : Таблица de1h.s_00_stg_terminals удалена
+2022-02-05 02:23:02 : de1h.s_00_stg_terminals создана
+2022-02-05 02:23:02 : terminals_01032021.xlsxзагружен в датафрейм
+2022-02-05 02:23:03 : Данные загружены в de1h.s_00_stg_terminals, загружено 150 записей
+2022-02-05 02:23:03 : Таблица de1h.s_00_stg_new_terminals удалена
+2022-02-05 02:23:03 : de1h.s_00_stg_new_terminals создана, загружено 150 записей
+2022-02-05 02:23:03 : Таблица de1h.s_00_stg_del_terminals удалена
+2022-02-05 02:23:03 : de1h.s_00_stg_del_terminals создана, загружено 0 записей
+2022-02-05 02:23:04 : Ошибка удаления таблицы de1h.s_00_stg_chenge_terminals
+2022-02-05 02:23:04 : Ошибка создание de1h.s_00_stg_chenge_terminals
+2022-02-05 02:23:29 : passport_blacklist_01032021.xlsx,terminals_01032021.xlsx,transactions_01032021.txt готовы к обработке
+2022-02-05 02:23:29 : Таблица de1h.s_00_stg_terminals удалена
+2022-02-05 02:23:30 : de1h.s_00_stg_terminals создана
+2022-02-05 02:23:30 : terminals_01032021.xlsxзагружен в датафрейм
+2022-02-05 02:23:31 : Данные загружены в de1h.s_00_stg_terminals, загружено 150 записей
+2022-02-05 02:23:31 : Таблица de1h.s_00_stg_new_terminals удалена
+2022-02-05 02:23:32 : de1h.s_00_stg_new_terminals создана, загружено 150 записей
+2022-02-05 02:23:32 : Таблица de1h.s_00_stg_del_terminals удалена
+2022-02-05 02:23:32 : de1h.s_00_stg_del_terminals создана, загружено 0 записей
+2022-02-05 02:23:32 : Таблица de1h.s_00_stg_chenge_terminals удалена
+2022-02-05 02:23:32 : de1h.s_00_stg_chenge_terminals создана, загружено 0 записей
+2022-02-05 15:08:13 : passport_blacklist_01032021.xlsx,terminals_01032021.xlsx,transactions_01032021.txt готовы к обработке
+2022-02-05 15:08:16 : Таблица de1h.s_00_stg_terminals удалена
+2022-02-05 15:08:16 : de1h.s_00_stg_terminals создана
+2022-02-05 15:08:17 : terminals_01032021.xlsxзагружен в датафрейм
+2022-02-05 15:08:18 : Данные загружены в de1h.s_00_stg_terminals, загружено 150 записей
+2022-02-05 15:08:18 : Таблица de1h.s_00_stg_new_terminals удалена
+2022-02-05 15:08:19 : de1h.s_00_stg_new_terminals создана, загружено 150 записей
+2022-02-05 15:08:19 : Таблица de1h.s_00_stg_del_terminals удалена
+2022-02-05 15:08:20 : de1h.s_00_stg_del_terminals создана, загружено 0 записей
+2022-02-05 15:08:20 : Таблица de1h.s_00_stg_chenge_terminals удалена
+2022-02-05 15:08:20 : de1h.s_00_stg_chenge_terminals создана, загружено 0 записей
+2022-02-05 18:43:52 : passport_blacklist_01032021.xlsx,terminals_01032021.xlsx,transactions_01032021.txt готовы к обработке
+2022-02-05 18:43:53 : Таблица de1h.s_00_dwh_dim_terminals_hist удалена
+2022-02-05 18:43:53 : de1h.s_00_dwh_dim_terminals_hist создана
+2022-02-05 18:43:54 : Таблица de1h.s_00_stg_terminals удалена
+2022-02-05 18:43:54 : de1h.s_00_stg_terminals создана
+2022-02-05 18:43:55 : terminals_01032021.xlsxзагружен в датафрейм
+2022-02-05 18:43:55 : Данные загружены в de1h.s_00_stg_terminals, загружено 150 записей
+2022-02-05 18:43:56 : Таблица de1h.s_00_stg_new_terminals удалена
+2022-02-05 18:43:56 : de1h.s_00_stg_new_terminals создана, загружено 150 записей
+2022-02-05 18:43:56 : Таблица de1h.s_00_stg_del_terminals удалена
+2022-02-05 18:43:57 : de1h.s_00_stg_del_terminals создана, загружено 0 записей
+2022-02-05 18:43:57 : Таблица de1h.s_00_stg_chenge_terminals удалена
+2022-02-05 18:43:57 : de1h.s_00_stg_chenge_terminals создана, загружено 0 записей
+2022-02-05 18:43:57 : Загрузка данных в основную таблицу терминалов de1h.s_00_dwh_dim_terminals_hist
+2022-02-05 18:43:57 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_chenge_terminals, обновлено 0 записей
+2022-02-05 18:43:57 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_del_terminals, обновлено 0 записей
+2022-02-05 18:43:58 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_new_terminals, обновлено 150 записей
+2022-02-05 18:43:58 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_chenge_terminals, обновлено 0 записей
+2022-02-05 18:43:58 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_del_terminals, обновлено 0 записей
+2022-02-05 18:47:13 : passport_blacklist_01032021.xlsx,terminals_01032021.xlsx,transactions_01032021.txt готовы к обработке
+2022-02-05 18:47:14 : Таблица de1h.s_00_stg_terminals удалена
+2022-02-05 18:47:14 : de1h.s_00_stg_terminals создана
+2022-02-05 18:47:15 : terminals_01032021.xlsxзагружен в датафрейм
+2022-02-05 18:47:15 : Данные загружены в de1h.s_00_stg_terminals, загружено 150 записей
+2022-02-05 18:47:15 : Таблица de1h.s_00_stg_new_terminals удалена
+2022-02-05 18:47:15 : de1h.s_00_stg_new_terminals создана, загружено 0 записей
+2022-02-05 18:47:15 : Таблица de1h.s_00_stg_del_terminals удалена
+2022-02-05 18:47:16 : de1h.s_00_stg_del_terminals создана, загружено 0 записей
+2022-02-05 18:47:16 : Таблица de1h.s_00_stg_chenge_terminals удалена
+2022-02-05 18:47:16 : de1h.s_00_stg_chenge_terminals создана, загружено 0 записей
+2022-02-05 18:47:16 : Загрузка данных в основную таблицу терминалов de1h.s_00_dwh_dim_terminals_hist
+2022-02-05 18:47:16 : поля effective_to для записей de1h.s_00_dwh_dim_terminals_hist обновлены на основании de1h.s_00_stg_chenge_terminals, обновлено 0 записей
+2022-02-05 18:47:17 : поля effective_to для записей de1h.s_00_dwh_dim_terminals_hist обновлены на основании de1h.s_00_stg_del_terminals, обновлено 0 записей
+2022-02-05 18:47:17 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_new_terminals, обновлено 0 записей
+2022-02-05 18:47:17 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_chenge_terminals, обновлено 0 записей
+2022-02-05 18:47:17 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_del_terminals, обновлено 0 записей
+2022-02-05 18:47:58 : passport_blacklist_01032021.xlsx,terminals_01032021.xlsx,transactions_01032021.txt готовы к обработке
+2022-02-05 18:47:59 : Таблица de1h.s_00_stg_terminals удалена
+2022-02-05 18:47:59 : de1h.s_00_stg_terminals создана
+2022-02-05 18:48:00 : terminals_01032021.xlsxзагружен в датафрейм
+2022-02-05 18:48:00 : Данные загружены в de1h.s_00_stg_terminals, загружено 150 записей
+2022-02-05 18:48:00 : Таблица de1h.s_00_stg_new_terminals удалена
+2022-02-05 18:48:00 : de1h.s_00_stg_new_terminals создана, загружено 0 записей
+2022-02-05 18:48:01 : Таблица de1h.s_00_stg_del_terminals удалена
+2022-02-05 18:48:01 : de1h.s_00_stg_del_terminals создана, загружено 0 записей
+2022-02-05 18:48:01 : Таблица de1h.s_00_stg_chenge_terminals удалена
+2022-02-05 18:48:01 : de1h.s_00_stg_chenge_terminals создана, загружено 0 записей
+2022-02-05 18:48:01 : Загрузка данных в основную таблицу терминалов de1h.s_00_dwh_dim_terminals_hist
+2022-02-05 18:48:01 : поля effective_to для записей de1h.s_00_dwh_dim_terminals_hist обновлены на основании de1h.s_00_stg_chenge_terminals, обновлено 0 записей
+2022-02-05 18:48:02 : поля effective_to для записей de1h.s_00_dwh_dim_terminals_hist обновлены на основании de1h.s_00_stg_del_terminals, обновлено 0 записей
+2022-02-05 18:48:02 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_new_terminals, обновлено 0 записей
+2022-02-05 18:48:02 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_chenge_terminals, обновлено 0 записей
+2022-02-05 18:48:02 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_del_terminals, обновлено 0 записей
+2022-02-05 19:01:08 : passport_blacklist_02032021.xlsx,terminals_02032021.xlsx,transactions_02032021.txt готовы к обработке
+2022-02-05 19:01:09 : Таблица de1h.s_00_stg_terminals удалена
+2022-02-05 19:01:10 : de1h.s_00_stg_terminals создана
+2022-02-05 19:01:10 : terminals_02032021.xlsxзагружен в датафрейм
+2022-02-05 19:01:10 : Данные загружены в de1h.s_00_stg_terminals, загружено 151 записей
+2022-02-05 19:01:11 : Таблица de1h.s_00_stg_new_terminals удалена
+2022-02-05 19:01:11 : de1h.s_00_stg_new_terminals создана, загружено 1 записей
+2022-02-05 19:01:11 : Таблица de1h.s_00_stg_del_terminals удалена
+2022-02-05 19:01:12 : de1h.s_00_stg_del_terminals создана, загружено 0 записей
+2022-02-05 19:01:12 : Таблица de1h.s_00_stg_chenge_terminals удалена
+2022-02-05 19:01:12 : de1h.s_00_stg_chenge_terminals создана, загружено 2 записей
+2022-02-05 19:01:12 : Загрузка данных в основную таблицу терминалов de1h.s_00_dwh_dim_terminals_hist
+2022-02-05 19:01:12 : поля effective_to для записей de1h.s_00_dwh_dim_terminals_hist обновлены на основании de1h.s_00_stg_chenge_terminals, обновлено 2 записей
+2022-02-05 19:01:13 : поля effective_to для записей de1h.s_00_dwh_dim_terminals_hist обновлены на основании de1h.s_00_stg_del_terminals, обновлено 0 записей
+2022-02-05 19:01:13 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_new_terminals, обновлено 1 записей
+2022-02-05 19:01:13 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_chenge_terminals, обновлено 2 записей
+2022-02-05 19:01:13 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_del_terminals, обновлено 0 записей
+2022-02-05 19:26:26 : passport_blacklist_01032021.xlsx,terminals_01032021.xlsx,transactions_01032021.txt готовы к обработке
+2022-02-05 19:26:27 : Таблица de1h.s_00_dwh_dim_terminals_hist удалена
+2022-02-05 19:26:27 : de1h.s_00_dwh_dim_terminals_hist создана
+2022-02-05 19:26:27 : Таблица de1h.s_00_stg_terminals удалена
+2022-02-05 19:26:27 : de1h.s_00_stg_terminals создана
+2022-02-05 19:26:28 : terminals_01032021.xlsxзагружен в датафрейм
+2022-02-05 19:26:30 : Данные загружены в de1h.s_00_stg_terminals, загружено 150 записей
+2022-02-05 19:26:30 : Таблица de1h.s_00_stg_new_terminals удалена
+2022-02-05 19:26:31 : de1h.s_00_stg_new_terminals создана, загружено 150 записей
+2022-02-05 19:26:31 : Таблица de1h.s_00_stg_del_terminals удалена
+2022-02-05 19:26:31 : de1h.s_00_stg_del_terminals создана, загружено 0 записей
+2022-02-05 19:26:32 : Таблица de1h.s_00_stg_chenge_terminals удалена
+2022-02-05 19:26:32 : de1h.s_00_stg_chenge_terminals создана, загружено 0 записей
+2022-02-05 19:26:32 : Загрузка данных в основную таблицу терминалов de1h.s_00_dwh_dim_terminals_hist
+2022-02-05 19:26:32 : поля effective_to для записей de1h.s_00_dwh_dim_terminals_hist обновлены на основании de1h.s_00_stg_chenge_terminals, обновлено 0 записей
+2022-02-05 19:26:32 : поля effective_to для записей de1h.s_00_dwh_dim_terminals_hist обновлены на основании de1h.s_00_stg_del_terminals, обновлено 0 записей
+2022-02-05 19:26:32 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_new_terminals, обновлено 150 записей
+2022-02-05 19:26:33 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_chenge_terminals, обновлено 0 записей
+2022-02-05 19:26:33 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_del_terminals, обновлено 0 записей
+2022-02-05 19:26:45 : passport_blacklist_01032021.xlsx,terminals_01032021.xlsx,transactions_01032021.txt готовы к обработке
+2022-02-05 19:26:46 : Таблица de1h.s_00_stg_terminals удалена
+2022-02-05 19:26:46 : de1h.s_00_stg_terminals создана
+2022-02-05 19:26:47 : terminals_01032021.xlsxзагружен в датафрейм
+2022-02-05 19:26:48 : Данные загружены в de1h.s_00_stg_terminals, загружено 150 записей
+2022-02-05 19:26:48 : Таблица de1h.s_00_stg_new_terminals удалена
+2022-02-05 19:26:48 : de1h.s_00_stg_new_terminals создана, загружено 0 записей
+2022-02-05 19:26:49 : Таблица de1h.s_00_stg_del_terminals удалена
+2022-02-05 19:26:49 : de1h.s_00_stg_del_terminals создана, загружено 0 записей
+2022-02-05 19:26:49 : Таблица de1h.s_00_stg_chenge_terminals удалена
+2022-02-05 19:26:49 : de1h.s_00_stg_chenge_terminals создана, загружено 0 записей
+2022-02-05 19:26:49 : Загрузка данных в основную таблицу терминалов de1h.s_00_dwh_dim_terminals_hist
+2022-02-05 19:26:49 : поля effective_to для записей de1h.s_00_dwh_dim_terminals_hist обновлены на основании de1h.s_00_stg_chenge_terminals, обновлено 0 записей
+2022-02-05 19:26:50 : поля effective_to для записей de1h.s_00_dwh_dim_terminals_hist обновлены на основании de1h.s_00_stg_del_terminals, обновлено 0 записей
+2022-02-05 19:26:50 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_new_terminals, обновлено 0 записей
+2022-02-05 19:26:50 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_chenge_terminals, обновлено 0 записей
+2022-02-05 19:26:50 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_del_terminals, обновлено 0 записей
+2022-02-05 19:27:25 : passport_blacklist_02032021.xlsx,terminals_02032021.xlsx,transactions_02032021.txt готовы к обработке
+2022-02-05 19:27:25 : Таблица de1h.s_00_stg_terminals удалена
+2022-02-05 19:27:26 : de1h.s_00_stg_terminals создана
+2022-02-05 19:27:26 : terminals_02032021.xlsxзагружен в датафрейм
+2022-02-05 19:27:27 : Данные загружены в de1h.s_00_stg_terminals, загружено 151 записей
+2022-02-05 19:27:27 : Таблица de1h.s_00_stg_new_terminals удалена
+2022-02-05 19:27:28 : de1h.s_00_stg_new_terminals создана, загружено 1 записей
+2022-02-05 19:27:28 : Таблица de1h.s_00_stg_del_terminals удалена
+2022-02-05 19:27:29 : de1h.s_00_stg_del_terminals создана, загружено 0 записей
+2022-02-05 19:27:29 : Таблица de1h.s_00_stg_chenge_terminals удалена
+2022-02-05 19:27:30 : de1h.s_00_stg_chenge_terminals создана, загружено 2 записей
+2022-02-05 19:27:30 : Загрузка данных в основную таблицу терминалов de1h.s_00_dwh_dim_terminals_hist
+2022-02-05 19:27:30 : поля effective_to для записей de1h.s_00_dwh_dim_terminals_hist обновлены на основании de1h.s_00_stg_chenge_terminals, обновлено 2 записей
+2022-02-05 19:27:30 : поля effective_to для записей de1h.s_00_dwh_dim_terminals_hist обновлены на основании de1h.s_00_stg_del_terminals, обновлено 0 записей
+2022-02-05 19:27:30 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_new_terminals, обновлено 1 записей
+2022-02-05 19:27:31 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_chenge_terminals, обновлено 2 записей
+2022-02-05 19:27:31 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_del_terminals, обновлено 0 записей
+2022-02-05 19:47:24 : passport_blacklist_02032021.xlsx,terminals_02032021.xlsx,transactions_02032021.txt готовы к обработке
+2022-02-05 19:47:25 : Таблица de1h.s_00_stg_terminals удалена
+2022-02-05 19:47:25 : de1h.s_00_stg_terminals создана
+2022-02-05 19:47:26 : terminals_02032021.xlsxзагружен в датафрейм
+2022-02-05 19:47:26 : Данные загружены в de1h.s_00_stg_terminals, загружено 151 записей
+2022-02-05 19:47:27 : Таблица de1h.s_00_stg_new_terminals удалена
+2022-02-05 19:47:27 : de1h.s_00_stg_new_terminals создана, загружено 0 записей
+2022-02-05 19:47:27 : Таблица de1h.s_00_stg_del_terminals удалена
+2022-02-05 19:47:27 : de1h.s_00_stg_del_terminals создана, загружено 0 записей
+2022-02-05 19:47:28 : Таблица de1h.s_00_stg_chenge_terminals удалена
+2022-02-05 19:47:29 : de1h.s_00_stg_chenge_terminals создана, загружено 2 записей
+2022-02-05 19:47:29 : Загрузка данных в основную таблицу терминалов de1h.s_00_dwh_dim_terminals_hist
+2022-02-05 19:47:29 : поля effective_to для записей de1h.s_00_dwh_dim_terminals_hist обновлены на основании de1h.s_00_stg_chenge_terminals, обновлено 2 записей
+2022-02-05 19:47:29 : поля effective_to для записей de1h.s_00_dwh_dim_terminals_hist обновлены на основании de1h.s_00_stg_del_terminals, обновлено 0 записей
+2022-02-05 19:47:29 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_new_terminals, обновлено 0 записей
+2022-02-05 19:47:30 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_chenge_terminals, обновлено 2 записей
+2022-02-05 19:47:30 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_del_terminals, обновлено 0 записей
+2022-02-05 19:49:17 : passport_blacklist_02032021.xlsx,terminals_02032021.xlsx,transactions_02032021.txt готовы к обработке
+2022-02-05 19:49:25 : Таблица de1h.s_00_stg_terminals удалена
+2022-02-05 19:49:26 : de1h.s_00_stg_terminals создана
+2022-02-05 19:49:27 : terminals_02032021.xlsxзагружен в датафрейм
+2022-02-05 19:49:32 : Данные загружены в de1h.s_00_stg_terminals, загружено 151 записей
+2022-02-05 19:49:33 : Таблица de1h.s_00_stg_new_terminals удалена
+2022-02-05 19:49:34 : de1h.s_00_stg_new_terminals создана, загружено 0 записей
+2022-02-05 19:49:34 : Таблица de1h.s_00_stg_del_terminals удалена
+2022-02-05 19:49:35 : de1h.s_00_stg_del_terminals создана, загружено 0 записей
+2022-02-05 19:49:36 : Таблица de1h.s_00_stg_chenge_terminals удалена
+2022-02-05 19:49:37 : de1h.s_00_stg_chenge_terminals создана, загружено 2 записей
+2022-02-05 19:49:37 : Загрузка данных в основную таблицу терминалов de1h.s_00_dwh_dim_terminals_hist
+2022-02-05 19:49:38 : поля effective_to для записей de1h.s_00_dwh_dim_terminals_hist обновлены на основании de1h.s_00_stg_chenge_terminals, обновлено 2 записей
+2022-02-05 19:53:03 : passport_blacklist_02032021.xlsx,terminals_02032021.xlsx,transactions_02032021.txt готовы к обработке
+2022-02-05 19:53:04 : Таблица de1h.s_00_dwh_dim_terminals_hist удалена
+2022-02-05 19:53:04 : de1h.s_00_dwh_dim_terminals_hist создана
+2022-02-05 19:53:04 : Таблица de1h.s_00_stg_terminals удалена
+2022-02-05 19:53:05 : de1h.s_00_stg_terminals создана
+2022-02-05 19:53:05 : terminals_02032021.xlsxзагружен в датафрейм
+2022-02-05 19:53:08 : Данные загружены в de1h.s_00_stg_terminals, загружено 151 записей
+2022-02-05 19:53:09 : Таблица de1h.s_00_stg_new_terminals удалена
+2022-02-05 19:53:10 : de1h.s_00_stg_new_terminals создана, загружено 151 записей
+2022-02-05 19:53:11 : Таблица de1h.s_00_stg_del_terminals удалена
+2022-02-05 19:53:11 : de1h.s_00_stg_del_terminals создана, загружено 0 записей
+2022-02-05 19:53:11 : Таблица de1h.s_00_stg_chenge_terminals удалена
+2022-02-05 19:53:12 : de1h.s_00_stg_chenge_terminals создана, загружено 0 записей
+2022-02-05 19:53:12 : Загрузка данных в основную таблицу терминалов de1h.s_00_dwh_dim_terminals_hist
+2022-02-05 19:53:12 : поля effective_to для записей de1h.s_00_dwh_dim_terminals_hist обновлены на основании de1h.s_00_stg_chenge_terminals, обновлено 0 записей
+2022-02-05 19:53:12 : поля effective_to для записей de1h.s_00_dwh_dim_terminals_hist обновлены на основании de1h.s_00_stg_del_terminals, обновлено 0 записей
+2022-02-05 19:53:13 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_new_terminals, обновлено 151 записей
+2022-02-05 19:53:14 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_chenge_terminals, обновлено 0 записей
+2022-02-05 19:53:14 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_del_terminals, обновлено 0 записей
+2022-02-05 20:51:06 : passport_blacklist_02032021.xlsx,terminals_02032021.xlsx,transactions_02032021.txt готовы к обработке
+2022-02-05 20:51:07 : Таблица de1h.s_00_dwh_dim_terminals_hist удалена
+2022-02-05 20:51:07 : de1h.s_00_dwh_dim_terminals_hist создана
+2022-02-05 20:51:08 : Таблица de1h.s_00_stg_terminals удалена
+2022-02-05 20:51:08 : de1h.s_00_stg_terminals создана
+2022-02-05 20:51:08 : terminals_02032021.xlsxзагружен в датафрейм
+2022-02-05 20:51:09 : Данные загружены в de1h.s_00_stg_terminals, загружено 151 записей
+2022-02-05 20:51:09 : Таблица de1h.s_00_stg_new_terminals удалена
+2022-02-05 20:51:10 : de1h.s_00_stg_new_terminals создана, загружено 151 записей
+2022-02-05 20:51:10 : Таблица de1h.s_00_stg_del_terminals удалена
+2022-02-05 20:51:10 : Ошибка создание de1h.s_00_stg_del_terminals
+2022-02-05 20:51:11 : Таблица de1h.s_00_stg_terminals удалена
+2022-02-05 20:51:11 : Ошибка создание de1h.s_00_stg_chenge_terminals
+2022-02-05 20:51:11 : Загрузка данных в основную таблицу терминалов de1h.s_00_dwh_dim_terminals_hist
+2022-02-05 20:51:45 : passport_blacklist_02032021.xlsx,terminals_02032021.xlsx,transactions_02032021.txt готовы к обработке
+2022-02-05 20:51:46 : Таблица de1h.s_00_dwh_dim_terminals_hist удалена
+2022-02-05 20:51:47 : de1h.s_00_dwh_dim_terminals_hist создана
+2022-02-05 20:51:47 : Ошибка удаления таблицы de1h.s_00_stg_terminals
+2022-02-05 20:51:47 : de1h.s_00_stg_terminals создана
+2022-02-05 20:51:48 : terminals_02032021.xlsxзагружен в датафрейм
+2022-02-05 20:51:48 : Данные загружены в de1h.s_00_stg_terminals, загружено 151 записей
+2022-02-05 20:51:49 : Таблица de1h.s_00_stg_new_terminals удалена
+2022-02-05 20:51:50 : de1h.s_00_stg_new_terminals создана, загружено 151 записей
+2022-02-05 20:51:50 : Ошибка удаления таблицы de1h.s_00_stg_del_terminals
+2022-02-05 20:51:50 : Ошибка создание de1h.s_00_stg_del_terminals
+2022-02-05 20:51:50 : Таблица de1h.s_00_stg_terminals удалена
+2022-02-05 20:51:51 : Ошибка создание de1h.s_00_stg_chenge_terminals
+2022-02-05 20:51:51 : Загрузка данных в основную таблицу терминалов de1h.s_00_dwh_dim_terminals_hist
+2022-02-05 20:51:51 : поля effective_to для записей de1h.s_00_dwh_dim_terminals_hist обновлены на основании de1h.s_00_stg_chenge_terminals, обновлено 0 записей
+2022-02-05 21:00:23 : passport_blacklist_02032021.xlsx,terminals_02032021.xlsx,transactions_02032021.txt готовы к обработке
+2022-02-05 21:00:24 : Таблица de1h.s_00_dwh_dim_terminals_hist удалена
+2022-02-05 21:00:25 : de1h.s_00_dwh_dim_terminals_hist создана
+2022-02-05 21:00:25 : Ошибка удаления таблицы de1h.s_00_stg_terminals
+2022-02-05 21:00:26 : de1h.s_00_stg_terminals создана
+2022-02-05 21:00:26 : terminals_02032021.xlsxзагружен в датафрейм
+2022-02-05 21:00:27 : Данные загружены в de1h.s_00_stg_terminals, загружено 151 записей
+2022-02-05 21:00:28 : Таблица de1h.s_00_stg_new_terminals удалена
+2022-02-05 21:00:28 : de1h.s_00_stg_new_terminals создана, загружено 151 записей
+2022-02-05 21:00:28 : Ошибка удаления таблицы de1h.s_00_stg_del_terminals
+2022-02-05 21:00:28 : Ошибка создание de1h.s_00_stg_del_terminals
+2022-02-05 21:00:30 : Таблица de1h.s_00_stg_terminals удалена
+2022-02-05 21:00:31 : Ошибка создание de1h.s_00_stg_chenge_terminals
+2022-02-05 21:00:31 : Загрузка данных в основную таблицу терминалов de1h.s_00_dwh_dim_terminals_hist
+2022-02-05 21:00:31 : поля effective_to для записей de1h.s_00_dwh_dim_terminals_hist обновлены на основании de1h.s_00_stg_chenge_terminals, обновлено 0 записей
+2022-02-05 21:00:53 : passport_blacklist_02032021.xlsx,terminals_02032021.xlsx,transactions_02032021.txt готовы к обработке
+2022-02-05 21:00:53 : Таблица de1h.s_00_dwh_dim_terminals_hist удалена
+2022-02-05 21:00:53 : de1h.s_00_dwh_dim_terminals_hist создана
+2022-02-05 21:00:54 : Ошибка удаления таблицы de1h.s_00_stg_terminals
+2022-02-05 21:00:54 : de1h.s_00_stg_terminals создана
+2022-02-05 21:00:55 : terminals_02032021.xlsxзагружен в датафрейм
+2022-02-05 21:00:55 : Данные загружены в de1h.s_00_stg_terminals, загружено 151 записей
+2022-02-05 21:00:57 : Таблица de1h.s_00_stg_new_terminals удалена
+2022-02-05 21:00:57 : de1h.s_00_stg_new_terminals создана, загружено 151 записей
+2022-02-05 21:00:57 : Ошибка удаления таблицы de1h.s_00_stg_del_terminals
+2022-02-05 21:00:57 : Ошибка создание de1h.s_00_stg_del_terminals
+2022-02-05 21:00:57 : Таблица de1h.s_00_stg_terminals удалена
+2022-02-05 21:00:58 : Ошибка создание de1h.s_00_stg_chenge_terminals
+2022-02-05 21:00:58 : Загрузка данных в основную таблицу терминалов de1h.s_00_dwh_dim_terminals_hist
+2022-02-05 21:00:58 : поля effective_to для записей de1h.s_00_dwh_dim_terminals_hist обновлены на основании de1h.s_00_stg_chenge_terminals, обновлено 0 записей
+2022-02-05 21:08:05 : passport_blacklist_02032021.xlsx,terminals_02032021.xlsx,transactions_02032021.txt готовы к обработке
+2022-02-05 21:08:06 : terminals_02032021.xlsxзагружен в датафрейм
+2022-02-05 21:08:36 : passport_blacklist_02032021.xlsx,terminals_02032021.xlsx,transactions_02032021.txt готовы к обработке
+2022-02-05 21:08:36 : Ошибка удаления таблицы de1h.s_00_stg_terminals
+2022-02-05 21:08:37 : de1h.s_00_stg_terminals создана
+2022-02-05 21:08:46 : passport_blacklist_02032021.xlsx,terminals_02032021.xlsx,transactions_02032021.txt готовы к обработке
+2022-02-05 21:08:47 : Таблица de1h.s_00_stg_terminals удалена
+2022-02-05 21:08:47 : de1h.s_00_stg_terminals создана
+2022-02-05 21:08:53 : passport_blacklist_02032021.xlsx,terminals_02032021.xlsx,transactions_02032021.txt готовы к обработке
+2022-02-05 21:08:54 : Таблица de1h.s_00_stg_terminals удалена
+2022-02-05 21:08:54 : de1h.s_00_stg_terminals создана
+2022-02-05 21:09:11 : passport_blacklist_02032021.xlsx,terminals_02032021.xlsx,transactions_02032021.txt готовы к обработке
+2022-02-05 21:09:12 : Таблица de1h.s_00_dwh_dim_terminals_hist удалена
+2022-02-05 21:09:13 : de1h.s_00_dwh_dim_terminals_hist создана
+2022-02-05 21:09:13 : Таблица de1h.s_00_stg_terminals удалена
+2022-02-05 21:09:13 : de1h.s_00_stg_terminals создана
+2022-02-05 21:09:26 : passport_blacklist_02032021.xlsx,terminals_02032021.xlsx,transactions_02032021.txt готовы к обработке
+2022-02-05 21:09:27 : Таблица de1h.s_00_dwh_dim_terminals_hist удалена
+2022-02-05 21:09:27 : de1h.s_00_dwh_dim_terminals_hist создана
+2022-02-05 21:09:28 : Таблица de1h.s_00_stg_terminals удалена
+2022-02-05 21:09:28 : de1h.s_00_stg_terminals создана
+2022-02-05 21:09:28 : terminals_02032021.xlsxзагружен в датафрейм
+2022-02-05 21:09:29 : Данные загружены в de1h.s_00_stg_terminals, загружено 151 записей
+2022-02-05 21:10:45 : passport_blacklist_02032021.xlsx,terminals_02032021.xlsx,transactions_02032021.txt готовы к обработке
+2022-02-05 21:10:45 : Таблица de1h.s_00_dwh_dim_terminals_hist удалена
+2022-02-05 21:10:46 : de1h.s_00_dwh_dim_terminals_hist создана
+2022-02-05 21:10:46 : Таблица de1h.s_00_stg_terminals удалена
+2022-02-05 21:10:46 : de1h.s_00_stg_terminals создана
+2022-02-05 21:10:47 : terminals_02032021.xlsxзагружен в датафрейм
+2022-02-05 21:10:48 : Данные загружены в de1h.s_00_stg_terminals, загружено 151 записей
+2022-02-05 21:10:48 : Таблица de1h.s_00_stg_new_terminals удалена
+2022-02-05 21:10:49 : de1h.s_00_stg_new_terminals создана, загружено 151 записей
+2022-02-05 21:11:19 : passport_blacklist_02032021.xlsx,terminals_02032021.xlsx,transactions_02032021.txt готовы к обработке
+2022-02-05 21:11:21 : Таблица de1h.s_00_dwh_dim_terminals_hist удалена
+2022-02-05 21:11:21 : de1h.s_00_dwh_dim_terminals_hist создана
+2022-02-05 21:11:22 : Таблица de1h.s_00_stg_terminals удалена
+2022-02-05 21:11:22 : de1h.s_00_stg_terminals создана
+2022-02-05 21:11:23 : terminals_02032021.xlsxзагружен в датафрейм
+2022-02-05 21:11:24 : Данные загружены в de1h.s_00_stg_terminals, загружено 151 записей
+2022-02-05 21:11:24 : Таблица de1h.s_00_stg_new_terminals удалена
+2022-02-05 21:11:24 : de1h.s_00_stg_new_terminals создана, загружено 151 записей
+2022-02-05 21:11:24 : Ошибка удаления таблицы de1h.s_00_stg_del_terminals
+2022-02-05 21:11:24 : Ошибка создание de1h.s_00_stg_del_terminals
+2022-02-05 21:11:36 : passport_blacklist_02032021.xlsx,terminals_02032021.xlsx,transactions_02032021.txt готовы к обработке
+2022-02-05 21:11:37 : Таблица de1h.s_00_dwh_dim_terminals_hist удалена
+2022-02-05 21:11:37 : de1h.s_00_dwh_dim_terminals_hist создана
+2022-02-05 21:11:37 : Таблица de1h.s_00_stg_terminals удалена
+2022-02-05 21:11:37 : de1h.s_00_stg_terminals создана
+2022-02-05 21:11:38 : terminals_02032021.xlsxзагружен в датафрейм
+2022-02-05 21:11:39 : Данные загружены в de1h.s_00_stg_terminals, загружено 151 записей
+2022-02-05 21:11:39 : Таблица de1h.s_00_stg_new_terminals удалена
+2022-02-05 21:11:39 : de1h.s_00_stg_new_terminals создана, загружено 151 записей
+2022-02-05 21:11:40 : Ошибка удаления таблицы de1h.s_00_stg_del_terminals
+2022-02-05 21:11:40 : Ошибка создание de1h.s_00_stg_del_terminals
+2022-02-05 21:17:47 : passport_blacklist_02032021.xlsx,terminals_02032021.xlsx,transactions_02032021.txt готовы к обработке
+2022-02-05 21:17:48 : Таблица de1h.s_00_dwh_dim_terminals_hist удалена
+2022-02-05 21:17:48 : de1h.s_00_dwh_dim_terminals_hist создана
+2022-02-05 21:17:48 : Таблица de1h.s_00_stg_terminals удалена
+2022-02-05 21:17:49 : de1h.s_00_stg_terminals создана
+2022-02-05 21:17:50 : terminals_02032021.xlsxзагружен в датафрейм
+2022-02-05 21:17:51 : Данные загружены в de1h.s_00_stg_terminals, загружено 151 записей
+2022-02-05 21:17:51 : Таблица de1h.s_00_stg_new_terminals удалена
+2022-02-05 21:17:51 : de1h.s_00_stg_new_terminals создана, загружено 151 записей
+2022-02-05 21:17:51 : Ошибка удаления таблицы de1h.s_00_stg_del_terminals
+2022-02-05 21:17:52 : de1h.s_00_stg_del_terminals создана, загружено 0 записей
+2022-02-05 21:17:58 : passport_blacklist_02032021.xlsx,terminals_02032021.xlsx,transactions_02032021.txt готовы к обработке
+2022-02-05 21:17:59 : Таблица de1h.s_00_dwh_dim_terminals_hist удалена
+2022-02-05 21:17:59 : de1h.s_00_dwh_dim_terminals_hist создана
+2022-02-05 21:17:59 : Таблица de1h.s_00_stg_terminals удалена
+2022-02-05 21:18:00 : de1h.s_00_stg_terminals создана
+2022-02-05 21:18:00 : terminals_02032021.xlsxзагружен в датафрейм
+2022-02-05 21:18:01 : Данные загружены в de1h.s_00_stg_terminals, загружено 151 записей
+2022-02-05 21:18:01 : Таблица de1h.s_00_stg_new_terminals удалена
+2022-02-05 21:18:02 : de1h.s_00_stg_new_terminals создана, загружено 151 записей
+2022-02-05 21:18:02 : Таблица de1h.s_00_stg_del_terminals удалена
+2022-02-05 21:18:02 : de1h.s_00_stg_del_terminals создана, загружено 0 записей
+2022-02-05 21:18:49 : passport_blacklist_02032021.xlsx,terminals_02032021.xlsx,transactions_02032021.txt готовы к обработке
+2022-02-05 21:18:50 : Таблица de1h.s_00_dwh_dim_terminals_hist удалена
+2022-02-05 21:18:50 : de1h.s_00_dwh_dim_terminals_hist создана
+2022-02-05 21:18:50 : Таблица de1h.s_00_stg_terminals удалена
+2022-02-05 21:18:50 : de1h.s_00_stg_terminals создана
+2022-02-05 21:18:51 : terminals_02032021.xlsxзагружен в датафрейм
+2022-02-05 21:18:51 : Данные загружены в de1h.s_00_stg_terminals, загружено 151 записей
+2022-02-05 21:18:52 : Таблица de1h.s_00_stg_new_terminals удалена
+2022-02-05 21:18:52 : de1h.s_00_stg_new_terminals создана, загружено 151 записей
+2022-02-05 21:18:52 : Таблица de1h.s_00_stg_del_terminals удалена
+2022-02-05 21:18:52 : de1h.s_00_stg_del_terminals создана, загружено 0 записей
+2022-02-05 21:18:53 : Таблица de1h.s_00_stg_terminals удалена
+2022-02-05 21:18:53 : Ошибка создание de1h.s_00_stg_chenge_terminals
+2022-02-05 21:19:55 : passport_blacklist_02032021.xlsx,terminals_02032021.xlsx,transactions_02032021.txt готовы к обработке
+2022-02-05 21:19:57 : Таблица de1h.s_00_dwh_dim_terminals_hist удалена
+2022-02-05 21:19:58 : de1h.s_00_dwh_dim_terminals_hist создана
+2022-02-05 21:19:58 : Ошибка удаления таблицы de1h.s_00_stg_terminals
+2022-02-05 21:19:58 : de1h.s_00_stg_terminals создана
+2022-02-05 21:19:59 : terminals_02032021.xlsxзагружен в датафрейм
+2022-02-05 21:20:00 : Данные загружены в de1h.s_00_stg_terminals, загружено 151 записей
+2022-02-05 21:20:02 : Таблица de1h.s_00_stg_new_terminals удалена
+2022-02-05 21:20:03 : de1h.s_00_stg_new_terminals создана, загружено 151 записей
+2022-02-05 21:20:03 : Таблица de1h.s_00_stg_del_terminals удалена
+2022-02-05 21:20:05 : de1h.s_00_stg_del_terminals создана, загружено 0 записей
+2022-02-05 21:20:05 : Таблица de1h.s_00_stg_terminals удалена
+2022-02-05 21:20:06 : Ошибка создание de1h.s_00_stg_chenge_terminals
+2022-02-05 21:21:33 : passport_blacklist_02032021.xlsx,terminals_02032021.xlsx,transactions_02032021.txt готовы к обработке
+2022-02-05 21:21:35 : Таблица de1h.s_00_dwh_dim_terminals_hist удалена
+2022-02-05 21:21:35 : de1h.s_00_dwh_dim_terminals_hist создана
+2022-02-05 21:21:35 : Ошибка удаления таблицы de1h.s_00_stg_terminals
+2022-02-05 21:21:36 : de1h.s_00_stg_terminals создана
+2022-02-05 21:21:37 : terminals_02032021.xlsxзагружен в датафрейм
+2022-02-05 21:21:39 : Данные загружены в de1h.s_00_stg_terminals, загружено 151 записей
+2022-02-05 21:21:39 : Таблица de1h.s_00_stg_new_terminals удалена
+2022-02-05 21:21:41 : de1h.s_00_stg_new_terminals создана, загружено 151 записей
+2022-02-05 21:21:41 : Таблица de1h.s_00_stg_del_terminals удалена
+2022-02-05 21:21:41 : de1h.s_00_stg_del_terminals создана, загружено 0 записей
+2022-02-05 21:21:42 : Таблица de1h.s_00_stg_terminals удалена
+2022-02-05 21:21:42 : Ошибка создание de1h.s_00_stg_chenge_terminals
+2022-02-05 21:27:45 : passport_blacklist_02032021.xlsx,terminals_02032021.xlsx,transactions_02032021.txt готовы к обработке
+2022-02-05 21:27:46 : Таблица de1h.s_00_dwh_dim_terminals_hist удалена
+2022-02-05 21:27:46 : de1h.s_00_dwh_dim_terminals_hist создана
+2022-02-05 21:27:47 : Ошибка удаления таблицы de1h.s_00_stg_terminals
+2022-02-05 21:27:47 : de1h.s_00_stg_terminals создана
+2022-02-05 21:27:49 : terminals_02032021.xlsxзагружен в датафрейм
+2022-02-05 21:27:50 : Данные загружены в de1h.s_00_stg_terminals, загружено 151 записей
+2022-02-05 21:27:51 : Таблица de1h.s_00_stg_new_terminals удалена
+2022-02-05 21:27:51 : de1h.s_00_stg_new_terminals создана, загружено 151 записей
+2022-02-05 21:27:51 : Таблица de1h.s_00_stg_del_terminals удалена
+2022-02-05 21:27:52 : de1h.s_00_stg_del_terminals создана, загружено 0 записей
+2022-02-05 21:27:52 : Таблица de1h.s_00_stg_terminals удалена
+2022-02-05 21:27:53 : Ошибка создание de1h.s_00_stg_chenge_terminals
+2022-02-05 21:29:10 : passport_blacklist_02032021.xlsx,terminals_02032021.xlsx,transactions_02032021.txt готовы к обработке
+2022-02-05 21:29:10 : Таблица de1h.s_00_dwh_dim_terminals_hist удалена
+2022-02-05 21:29:11 : de1h.s_00_dwh_dim_terminals_hist создана
+2022-02-05 21:29:11 : Ошибка удаления таблицы de1h.s_00_stg_terminals
+2022-02-05 21:29:11 : de1h.s_00_stg_terminals создана
+2022-02-05 21:29:12 : terminals_02032021.xlsxзагружен в датафрейм
+2022-02-05 21:29:13 : Данные загружены в de1h.s_00_stg_terminals, загружено 151 записей
+2022-02-05 21:29:14 : Таблица de1h.s_00_stg_new_terminals удалена
+2022-02-05 21:29:14 : de1h.s_00_stg_new_terminals создана, загружено 151 записей
+2022-02-05 21:29:15 : Таблица de1h.s_00_stg_del_terminals удалена
+2022-02-05 21:29:15 : de1h.s_00_stg_del_terminals создана, загружено 0 записей
+2022-02-05 21:29:15 : Таблица de1h.s_00_stg_terminals удалена
+2022-02-05 21:29:15 : Ошибка создание de1h.s_00_stg_chenge_terminals
+2022-02-05 21:29:15 : Загрузка данных в основную таблицу терминалов de1h.s_00_dwh_dim_terminals_hist
+2022-02-05 21:29:15 : поля effective_to для записей de1h.s_00_dwh_dim_terminals_hist обновлены на основании de1h.s_00_stg_chenge_terminals, обновлено 0 записей
+2022-02-05 21:29:15 : поля effective_to для записей de1h.s_00_dwh_dim_terminals_hist обновлены на основании de1h.s_00_stg_del_terminals, обновлено 0 записей
+2022-02-05 21:29:16 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_new_terminals, обновлено 151 записей
+2022-02-05 21:29:59 : passport_blacklist_02032021.xlsx,terminals_02032021.xlsx,transactions_02032021.txt готовы к обработке
+2022-02-05 21:30:01 : Таблица de1h.s_00_dwh_dim_terminals_hist удалена
+2022-02-05 21:30:01 : de1h.s_00_dwh_dim_terminals_hist создана
+2022-02-05 21:30:02 : Ошибка удаления таблицы de1h.s_00_stg_terminals
+2022-02-05 21:30:02 : de1h.s_00_stg_terminals создана
+2022-02-05 21:30:03 : terminals_02032021.xlsxзагружен в датафрейм
+2022-02-05 21:30:04 : Данные загружены в de1h.s_00_stg_terminals, загружено 151 записей
+2022-02-05 21:30:04 : Таблица de1h.s_00_stg_new_terminals удалена
+2022-02-05 21:30:04 : de1h.s_00_stg_new_terminals создана, загружено 151 записей
+2022-02-05 21:30:05 : Таблица de1h.s_00_stg_del_terminals удалена
+2022-02-05 21:30:05 : de1h.s_00_stg_del_terminals создана, загружено 0 записей
+2022-02-05 21:30:05 : Таблица de1h.s_00_stg_terminals удалена
+2022-02-05 21:30:05 : Ошибка создание de1h.s_00_stg_chenge_terminals
+2022-02-05 21:30:05 : Загрузка данных в основную таблицу терминалов de1h.s_00_dwh_dim_terminals_hist
+2022-02-05 21:30:05 : поля effective_to для записей de1h.s_00_dwh_dim_terminals_hist обновлены на основании de1h.s_00_stg_chenge_terminals, обновлено 0 записей
+2022-02-05 21:30:06 : поля effective_to для записей de1h.s_00_dwh_dim_terminals_hist обновлены на основании de1h.s_00_stg_del_terminals, обновлено 0 записей
+2022-02-05 21:30:06 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_new_terminals, обновлено 151 записей
+2022-02-05 21:30:06 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_chenge_terminals, обновлено 0 записей
+2022-02-05 21:30:52 : passport_blacklist_02032021.xlsx,terminals_02032021.xlsx,transactions_02032021.txt готовы к обработке
+2022-02-05 21:30:52 : Таблица de1h.s_00_dwh_dim_terminals_hist удалена
+2022-02-05 21:30:52 : de1h.s_00_dwh_dim_terminals_hist создана
+2022-02-05 21:30:53 : Ошибка удаления таблицы de1h.s_00_stg_terminals
+2022-02-05 21:30:53 : de1h.s_00_stg_terminals создана
+2022-02-05 21:30:54 : terminals_02032021.xlsxзагружен в датафрейм
+2022-02-05 21:30:54 : Данные загружены в de1h.s_00_stg_terminals, загружено 151 записей
+2022-02-05 21:30:55 : Таблица de1h.s_00_stg_new_terminals удалена
+2022-02-05 21:30:55 : de1h.s_00_stg_new_terminals создана, загружено 151 записей
+2022-02-05 21:30:55 : Таблица de1h.s_00_stg_del_terminals удалена
+2022-02-05 21:30:56 : de1h.s_00_stg_del_terminals создана, загружено 0 записей
+2022-02-05 21:30:56 : Таблица de1h.s_00_stg_terminals удалена
+2022-02-05 21:30:56 : Ошибка создание de1h.s_00_stg_chenge_terminals
+2022-02-05 21:30:56 : Загрузка данных в основную таблицу терминалов de1h.s_00_dwh_dim_terminals_hist
+2022-02-05 21:30:56 : поля effective_to для записей de1h.s_00_dwh_dim_terminals_hist обновлены на основании de1h.s_00_stg_chenge_terminals, обновлено 0 записей
+2022-02-05 21:30:57 : поля effective_to для записей de1h.s_00_dwh_dim_terminals_hist обновлены на основании de1h.s_00_stg_del_terminals, обновлено 0 записей
+2022-02-05 21:30:57 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_new_terminals, обновлено 151 записей
+2022-02-05 21:30:57 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_chenge_terminals, обновлено 0 записей
+2022-02-05 21:30:57 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_del_terminals, обновлено 0 записей
+2022-02-05 21:34:12 : passport_blacklist_02032021.xlsx,terminals_02032021.xlsx,transactions_02032021.txt готовы к обработке
+2022-02-05 21:34:12 : Таблица de1h.s_00_dwh_dim_terminals_hist удалена
+2022-02-05 21:34:13 : de1h.s_00_dwh_dim_terminals_hist создана
+2022-02-05 21:34:13 : Ошибка удаления таблицы de1h.s_00_stg_terminals
+2022-02-05 21:34:14 : de1h.s_00_stg_terminals создана
+2022-02-05 21:34:14 : terminals_02032021.xlsxзагружен в датафрейм
+2022-02-05 21:34:15 : Данные загружены в de1h.s_00_stg_terminals, загружено 151 записей
+2022-02-05 21:34:15 : Таблица de1h.s_00_stg_new_terminals удалена
+2022-02-05 21:34:16 : de1h.s_00_stg_new_terminals создана, загружено 151 записей
+2022-02-05 21:34:16 : Таблица de1h.s_00_stg_del_terminals удалена
+2022-02-05 21:34:17 : de1h.s_00_stg_del_terminals создана, загружено 0 записей
+2022-02-05 21:34:17 : Таблица de1h.s_00_stg_terminals удалена
+2022-02-05 21:34:17 : Ошибка создание de1h.s_00_stg_chenge_terminals
+2022-02-05 21:34:17 : Загрузка данных в основную таблицу терминалов de1h.s_00_dwh_dim_terminals_hist
+2022-02-05 21:34:17 : поля effective_to для записей de1h.s_00_dwh_dim_terminals_hist обновлены на основании de1h.s_00_stg_chenge_terminals, обновлено 0 записей
+2022-02-05 21:34:18 : поля effective_to для записей de1h.s_00_dwh_dim_terminals_hist обновлены на основании de1h.s_00_stg_del_terminals, обновлено 0 записей
+2022-02-05 21:34:18 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_new_terminals, обновлено 151 записей
+2022-02-05 21:34:18 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_chenge_terminals, обновлено 0 записей
+2022-02-05 21:34:19 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_del_terminals, обновлено 0 записей
+2022-02-05 21:37:16 : passport_blacklist_02032021.xlsx,terminals_02032021.xlsx,transactions_02032021.txt готовы к обработке
+2022-02-05 21:37:16 : Таблица de1h.s_00_dwh_dim_terminals_hist удалена
+2022-02-05 21:37:16 : de1h.s_00_dwh_dim_terminals_hist создана
+2022-02-05 21:37:17 : de1h.s_00_stg_terminals создана
+2022-02-05 21:37:17 : terminals_02032021.xlsxзагружен в датафрейм
+2022-02-05 21:37:18 : Данные загружены в de1h.s_00_stg_terminals, загружено 151 записей
+2022-02-05 21:37:18 : Таблица de1h.s_00_stg_new_terminals удалена
+2022-02-05 21:37:18 : de1h.s_00_stg_new_terminals создана, загружено 151 записей
+2022-02-05 21:37:19 : Таблица de1h.s_00_stg_del_terminals удалена
+2022-02-05 21:37:19 : de1h.s_00_stg_del_terminals создана, загружено 0 записей
+2022-02-05 21:37:19 : Таблица de1h.s_00_stg_terminals удалена
+2022-02-05 21:37:20 : Ошибка создание de1h.s_00_stg_chenge_terminals
+2022-02-05 21:37:20 : Загрузка данных в основную таблицу терминалов de1h.s_00_dwh_dim_terminals_hist
+2022-02-05 21:37:20 : поля effective_to для записей de1h.s_00_dwh_dim_terminals_hist обновлены на основании de1h.s_00_stg_chenge_terminals, обновлено 0 записей
+2022-02-05 21:37:20 : поля effective_to для записей de1h.s_00_dwh_dim_terminals_hist обновлены на основании de1h.s_00_stg_del_terminals, обновлено 0 записей
+2022-02-05 21:37:20 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_new_terminals, обновлено 151 записей
+2022-02-05 21:37:20 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_chenge_terminals, обновлено 0 записей
+2022-02-05 21:37:21 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_del_terminals, обновлено 0 записей
+2022-02-05 21:37:40 : passport_blacklist_02032021.xlsx,terminals_02032021.xlsx,transactions_02032021.txt готовы к обработке
+2022-02-05 21:37:41 : Таблица de1h.s_00_dwh_dim_terminals_hist удалена
+2022-02-05 21:37:41 : de1h.s_00_dwh_dim_terminals_hist создана
+2022-02-05 21:37:41 : de1h.s_00_stg_terminals создана
+2022-02-05 21:37:42 : terminals_02032021.xlsxзагружен в датафрейм
+2022-02-05 21:37:43 : Данные загружены в de1h.s_00_stg_terminals, загружено 151 записей
+2022-02-05 21:37:43 : Таблица de1h.s_00_stg_new_terminals удалена
+2022-02-05 21:37:43 : de1h.s_00_stg_new_terminals создана, загружено 151 записей
+2022-02-05 21:37:44 : Таблица de1h.s_00_stg_del_terminals удалена
+2022-02-05 21:37:44 : de1h.s_00_stg_del_terminals создана, загружено 0 записей
+2022-02-05 21:37:44 : Таблица de1h.s_00_stg_terminals удалена
+2022-02-05 21:37:45 : Ошибка создание de1h.s_00_stg_chenge_terminals
+2022-02-05 21:37:45 : Загрузка данных в основную таблицу терминалов de1h.s_00_dwh_dim_terminals_hist
+2022-02-05 21:37:45 : поля effective_to для записей de1h.s_00_dwh_dim_terminals_hist обновлены на основании de1h.s_00_stg_chenge_terminals, обновлено 0 записей
+2022-02-05 21:37:45 : поля effective_to для записей de1h.s_00_dwh_dim_terminals_hist обновлены на основании de1h.s_00_stg_del_terminals, обновлено 0 записей
+2022-02-05 21:37:45 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_new_terminals, обновлено 151 записей
+2022-02-05 21:37:45 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_chenge_terminals, обновлено 0 записей
+2022-02-05 21:37:45 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_del_terminals, обновлено 0 записей
+2022-02-05 21:39:20 : passport_blacklist_02032021.xlsx,terminals_02032021.xlsx,transactions_02032021.txt готовы к обработке
+2022-02-05 21:39:20 : Таблица de1h.s_00_dwh_dim_terminals_hist удалена
+2022-02-05 21:39:20 : de1h.s_00_dwh_dim_terminals_hist создана
+2022-02-05 21:39:20 : de1h.s_00_stg_terminals создана
+2022-02-05 21:39:21 : terminals_02032021.xlsxзагружен в датафрейм
+2022-02-05 21:39:22 : Данные загружены в de1h.s_00_stg_terminals, загружено 151 записей
+2022-02-05 21:39:22 : Таблица de1h.s_00_stg_new_terminals удалена
+2022-02-05 21:39:22 : de1h.s_00_stg_new_terminals создана, загружено 151 записей
+2022-02-05 21:39:23 : Таблица de1h.s_00_stg_del_terminals удалена
+2022-02-05 21:39:23 : de1h.s_00_stg_del_terminals создана, загружено 0 записей
+2022-02-05 21:39:23 : Таблица de1h.s_00_stg_terminals удалена
+2022-02-05 21:39:23 : Ошибка создание de1h.s_00_stg_chenge_terminals
+2022-02-05 21:39:23 : Загрузка данных в основную таблицу терминалов de1h.s_00_dwh_dim_terminals_hist
+2022-02-05 21:39:24 : поля effective_to для записей de1h.s_00_dwh_dim_terminals_hist обновлены на основании de1h.s_00_stg_chenge_terminals, обновлено 0 записей
+2022-02-05 21:39:24 : поля effective_to для записей de1h.s_00_dwh_dim_terminals_hist обновлены на основании de1h.s_00_stg_del_terminals, обновлено 0 записей
+2022-02-05 21:39:24 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_new_terminals, обновлено 151 записей
+2022-02-05 21:39:24 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_chenge_terminals, обновлено 0 записей
+2022-02-05 21:39:24 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_del_terminals, обновлено 0 записей
+2022-02-05 21:39:38 : passport_blacklist_02032021.xlsx,terminals_02032021.xlsx,transactions_02032021.txt готовы к обработке
+2022-02-05 21:39:39 : Таблица de1h.s_00_dwh_dim_terminals_hist удалена
+2022-02-05 21:39:39 : de1h.s_00_dwh_dim_terminals_hist создана
+2022-02-05 21:39:39 : Ошибка удаления таблицы de1h.s_00_stg_terminals
+2022-02-05 21:39:40 : de1h.s_00_stg_terminals создана
+2022-02-05 21:39:41 : terminals_02032021.xlsxзагружен в датафрейм
+2022-02-05 21:39:41 : Данные загружены в de1h.s_00_stg_terminals, загружено 151 записей
+2022-02-05 21:39:41 : Таблица de1h.s_00_stg_new_terminals удалена
+2022-02-05 21:39:41 : de1h.s_00_stg_new_terminals создана, загружено 151 записей
+2022-02-05 21:39:42 : Таблица de1h.s_00_stg_del_terminals удалена
+2022-02-05 21:39:42 : de1h.s_00_stg_del_terminals создана, загружено 0 записей
+2022-02-05 21:39:42 : Таблица de1h.s_00_stg_terminals удалена
+2022-02-05 21:39:42 : Ошибка создание de1h.s_00_stg_chenge_terminals
+2022-02-05 21:39:42 : Загрузка данных в основную таблицу терминалов de1h.s_00_dwh_dim_terminals_hist
+2022-02-05 21:39:42 : поля effective_to для записей de1h.s_00_dwh_dim_terminals_hist обновлены на основании de1h.s_00_stg_chenge_terminals, обновлено 0 записей
+2022-02-05 21:39:42 : поля effective_to для записей de1h.s_00_dwh_dim_terminals_hist обновлены на основании de1h.s_00_stg_del_terminals, обновлено 0 записей
+2022-02-05 21:39:43 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_new_terminals, обновлено 151 записей
+2022-02-05 21:39:43 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_chenge_terminals, обновлено 0 записей
+2022-02-05 21:39:43 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_del_terminals, обновлено 0 записей
+2022-02-05 21:42:24 : passport_blacklist_02032021.xlsx,terminals_02032021.xlsx,transactions_02032021.txt готовы к обработке
+2022-02-05 21:42:25 : Таблица de1h.s_00_dwh_dim_terminals_hist удалена
+2022-02-05 21:42:25 : de1h.s_00_dwh_dim_terminals_hist создана
+2022-02-05 21:42:25 : Ошибка удаления таблицы de1h.s_00_stg_terminals
+2022-02-05 21:42:26 : de1h.s_00_stg_terminals создана
+2022-02-05 21:42:26 : в de1h.s_00_stg_terminals 0 записей
+2022-02-05 21:42:26 : terminals_02032021.xlsxзагружен в датафрейм
+2022-02-05 21:42:27 : Данные загружены в de1h.s_00_stg_terminals, загружено 151 записей
+2022-02-05 21:42:27 : Таблица de1h.s_00_stg_new_terminals удалена
+2022-02-05 21:42:27 : de1h.s_00_stg_new_terminals создана, загружено 151 записей
+2022-02-05 21:42:28 : Таблица de1h.s_00_stg_del_terminals удалена
+2022-02-05 21:42:28 : de1h.s_00_stg_del_terminals создана, загружено 0 записей
+2022-02-05 21:42:28 : Таблица de1h.s_00_stg_terminals удалена
+2022-02-05 21:42:28 : Ошибка создание de1h.s_00_stg_chenge_terminals
+2022-02-05 21:42:28 : Загрузка данных в основную таблицу терминалов de1h.s_00_dwh_dim_terminals_hist
+2022-02-05 21:42:28 : поля effective_to для записей de1h.s_00_dwh_dim_terminals_hist обновлены на основании de1h.s_00_stg_chenge_terminals, обновлено 0 записей
+2022-02-05 21:42:28 : поля effective_to для записей de1h.s_00_dwh_dim_terminals_hist обновлены на основании de1h.s_00_stg_del_terminals, обновлено 0 записей
+2022-02-05 21:42:29 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_new_terminals, обновлено 151 записей
+2022-02-05 21:42:29 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_chenge_terminals, обновлено 0 записей
+2022-02-05 21:42:29 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_del_terminals, обновлено 0 записей
+2022-02-05 21:43:01 : passport_blacklist_02032021.xlsx,terminals_02032021.xlsx,transactions_02032021.txt готовы к обработке
+2022-02-05 21:43:02 : Таблица de1h.s_00_dwh_dim_terminals_hist удалена
+2022-02-05 21:43:02 : de1h.s_00_dwh_dim_terminals_hist создана
+2022-02-05 21:43:03 : Ошибка удаления таблицы de1h.s_00_stg_terminals
+2022-02-05 21:43:03 : de1h.s_00_stg_terminals создана
+2022-02-05 21:43:03 : в de1h.s_00_stg_terminals 0 записей
+2022-02-05 21:43:04 : terminals_02032021.xlsxзагружен в датафрейм
+2022-02-05 21:43:04 : Данные загружены в de1h.s_00_stg_terminals, загружено 151 записей
+2022-02-05 21:43:04 : Таблица de1h.s_00_stg_new_terminals удалена
+2022-02-05 21:43:04 : de1h.s_00_stg_new_terminals создана, загружено 151 записей
+2022-02-05 21:43:05 : Таблица de1h.s_00_stg_del_terminals удалена
+2022-02-05 21:43:05 : de1h.s_00_stg_del_terminals создана, загружено 0 записей
+2022-02-05 21:43:06 : Таблица de1h.s_00_stg_chenge_terminals удалена
+2022-02-05 21:43:06 : de1h.s_00_stg_chenge_terminals создана, загружено 0 записей
+2022-02-05 21:43:06 : Загрузка данных в основную таблицу терминалов de1h.s_00_dwh_dim_terminals_hist
+2022-02-05 21:43:06 : поля effective_to для записей de1h.s_00_dwh_dim_terminals_hist обновлены на основании de1h.s_00_stg_chenge_terminals, обновлено 0 записей
+2022-02-05 21:43:07 : поля effective_to для записей de1h.s_00_dwh_dim_terminals_hist обновлены на основании de1h.s_00_stg_del_terminals, обновлено 0 записей
+2022-02-05 21:43:07 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_new_terminals, обновлено 151 записей
+2022-02-05 21:43:07 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_chenge_terminals, обновлено 0 записей
+2022-02-05 21:43:07 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_del_terminals, обновлено 0 записей
+2022-02-05 21:43:15 : passport_blacklist_02032021.xlsx,terminals_02032021.xlsx,transactions_02032021.txt готовы к обработке
+2022-02-05 21:43:16 : Таблица de1h.s_00_dwh_dim_terminals_hist удалена
+2022-02-05 21:43:16 : de1h.s_00_dwh_dim_terminals_hist создана
+2022-02-05 21:43:16 : Таблица de1h.s_00_stg_terminals удалена
+2022-02-05 21:43:17 : de1h.s_00_stg_terminals создана
+2022-02-05 21:43:17 : в de1h.s_00_stg_terminals 0 записей
+2022-02-05 21:43:17 : terminals_02032021.xlsxзагружен в датафрейм
+2022-02-05 21:43:18 : Данные загружены в de1h.s_00_stg_terminals, загружено 151 записей
+2022-02-05 21:43:18 : Таблица de1h.s_00_stg_new_terminals удалена
+2022-02-05 21:43:18 : de1h.s_00_stg_new_terminals создана, загружено 151 записей
+2022-02-05 21:43:19 : Таблица de1h.s_00_stg_del_terminals удалена
+2022-02-05 21:43:19 : de1h.s_00_stg_del_terminals создана, загружено 0 записей
+2022-02-05 21:43:19 : Таблица de1h.s_00_stg_chenge_terminals удалена
+2022-02-05 21:43:19 : de1h.s_00_stg_chenge_terminals создана, загружено 0 записей
+2022-02-05 21:43:19 : Загрузка данных в основную таблицу терминалов de1h.s_00_dwh_dim_terminals_hist
+2022-02-05 21:43:20 : поля effective_to для записей de1h.s_00_dwh_dim_terminals_hist обновлены на основании de1h.s_00_stg_chenge_terminals, обновлено 0 записей
+2022-02-05 21:43:20 : поля effective_to для записей de1h.s_00_dwh_dim_terminals_hist обновлены на основании de1h.s_00_stg_del_terminals, обновлено 0 записей
+2022-02-05 21:43:20 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_new_terminals, обновлено 151 записей
+2022-02-05 21:43:21 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_chenge_terminals, обновлено 0 записей
+2022-02-05 21:43:21 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_del_terminals, обновлено 0 записей
+2022-02-05 21:51:41 : passport_blacklist_01032021.xlsx,terminals_01032021.xlsx,transactions_01032021.txt готовы к обработке
+2022-02-05 21:51:42 : Таблица de1h.s_00_dwh_dim_terminals_hist удалена
+2022-02-05 21:51:43 : de1h.s_00_dwh_dim_terminals_hist создана
+2022-02-05 21:51:44 : Таблица de1h.s_00_stg_terminals удалена
+2022-02-05 21:51:44 : de1h.s_00_stg_terminals создана
+2022-02-05 21:51:44 : в de1h.s_00_stg_terminals 0 записей
+2022-02-05 21:51:45 : terminals_01032021.xlsxзагружен в датафрейм
+2022-02-05 21:51:46 : Данные загружены в de1h.s_00_stg_terminals, загружено 150 записей
+2022-02-05 21:51:46 : Таблица de1h.s_00_stg_new_terminals удалена
+2022-02-05 21:51:47 : de1h.s_00_stg_new_terminals создана, загружено 150 записей
+2022-02-05 21:51:48 : Таблица de1h.s_00_stg_del_terminals удалена
+2022-02-05 21:51:48 : de1h.s_00_stg_del_terminals создана, загружено 0 записей
+2022-02-05 21:51:48 : Таблица de1h.s_00_stg_chenge_terminals удалена
+2022-02-05 21:51:48 : de1h.s_00_stg_chenge_terminals создана, загружено 0 записей
+2022-02-05 21:51:48 : Загрузка данных в основную таблицу терминалов de1h.s_00_dwh_dim_terminals_hist
+2022-02-05 21:51:48 : поля effective_to для записей de1h.s_00_dwh_dim_terminals_hist обновлены на основании de1h.s_00_stg_chenge_terminals, обновлено 0 записей
+2022-02-05 21:51:49 : поля effective_to для записей de1h.s_00_dwh_dim_terminals_hist обновлены на основании de1h.s_00_stg_del_terminals, обновлено 0 записей
+2022-02-05 21:51:49 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_new_terminals, обновлено 150 записей
+2022-02-05 21:51:49 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_chenge_terminals, обновлено 0 записей
+2022-02-05 21:51:49 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_del_terminals, обновлено 0 записей
+2022-02-05 21:52:33 : passport_blacklist_02032021.xlsx,terminals_02032021.xlsx,transactions_02032021.txt готовы к обработке
+2022-02-05 21:52:35 : Таблица de1h.s_00_stg_terminals удалена
+2022-02-05 21:52:35 : de1h.s_00_stg_terminals создана
+2022-02-05 21:52:35 : в de1h.s_00_stg_terminals 0 записей
+2022-02-05 21:52:36 : terminals_02032021.xlsxзагружен в датафрейм
+2022-02-05 21:52:36 : Данные загружены в de1h.s_00_stg_terminals, загружено 151 записей
+2022-02-05 21:52:37 : Таблица de1h.s_00_stg_new_terminals удалена
+2022-02-05 21:52:37 : de1h.s_00_stg_new_terminals создана, загружено 1 записей
+2022-02-05 21:52:38 : Таблица de1h.s_00_stg_del_terminals удалена
+2022-02-05 21:52:38 : de1h.s_00_stg_del_terminals создана, загружено 0 записей
+2022-02-05 21:52:38 : Таблица de1h.s_00_stg_chenge_terminals удалена
+2022-02-05 21:52:39 : de1h.s_00_stg_chenge_terminals создана, загружено 2 записей
+2022-02-05 21:52:39 : Загрузка данных в основную таблицу терминалов de1h.s_00_dwh_dim_terminals_hist
+2022-02-05 21:52:39 : поля effective_to для записей de1h.s_00_dwh_dim_terminals_hist обновлены на основании de1h.s_00_stg_chenge_terminals, обновлено 2 записей
+2022-02-05 21:52:39 : поля effective_to для записей de1h.s_00_dwh_dim_terminals_hist обновлены на основании de1h.s_00_stg_del_terminals, обновлено 0 записей
+2022-02-05 21:52:39 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_new_terminals, обновлено 1 записей
+2022-02-05 21:52:40 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_chenge_terminals, обновлено 2 записей
+2022-02-05 21:52:40 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_del_terminals, обновлено 0 записей
+2022-02-05 21:53:27 : passport_blacklist_03032021.xlsx,terminals_03032021.xlsx,transactions_03032021.txt готовы к обработке
+2022-02-05 21:53:28 : Таблица de1h.s_00_stg_terminals удалена
+2022-02-05 21:53:28 : de1h.s_00_stg_terminals создана
+2022-02-05 21:53:29 : в de1h.s_00_stg_terminals 0 записей
+2022-02-05 21:53:29 : terminals_03032021.xlsxзагружен в датафрейм
+2022-02-05 21:53:30 : Данные загружены в de1h.s_00_stg_terminals, загружено 150 записей
+2022-02-05 21:53:30 : Таблица de1h.s_00_stg_new_terminals удалена
+2022-02-05 21:53:30 : de1h.s_00_stg_new_terminals создана, загружено 0 записей
+2022-02-05 21:53:31 : Таблица de1h.s_00_stg_del_terminals удалена
+2022-02-05 21:53:31 : de1h.s_00_stg_del_terminals создана, загружено 1 записей
+2022-02-05 21:53:32 : Таблица de1h.s_00_stg_chenge_terminals удалена
+2022-02-05 21:53:32 : de1h.s_00_stg_chenge_terminals создана, загружено 3 записей
+2022-02-05 21:53:32 : Загрузка данных в основную таблицу терминалов de1h.s_00_dwh_dim_terminals_hist
+2022-02-05 21:53:32 : поля effective_to для записей de1h.s_00_dwh_dim_terminals_hist обновлены на основании de1h.s_00_stg_chenge_terminals, обновлено 3 записей
+2022-02-05 21:53:33 : поля effective_to для записей de1h.s_00_dwh_dim_terminals_hist обновлены на основании de1h.s_00_stg_del_terminals, обновлено 1 записей
+2022-02-05 21:53:33 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_new_terminals, обновлено 0 записей
+2022-02-05 21:53:33 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_chenge_terminals, обновлено 3 записей
+2022-02-05 21:53:33 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_del_terminals, обновлено 1 записей
+2022-02-05 22:07:45 : passport_blacklist_03032021.xlsx,terminals_03032021.xlsx,transactions_03032021.txt готовы к обработке
+2022-02-05 22:13:33 : passport_blacklist_03032021.xlsx,terminals_03032021.xlsx,transactions_03032021.txt готовы к обработке
+2022-02-05 22:15:21 : passport_blacklist_03032021.xlsx,terminals_03032021.xlsx,transactions_03032021.txt готовы к обработке
+2022-02-05 22:16:02 : passport_blacklist_03032021.xlsx,terminals_03032021.xlsx,transactions_03032021.txt готовы к обработке
+2022-02-05 22:16:03 : Таблица de1h.s_00_stg_terminals удалена
+2022-02-05 22:16:03 : de1h.s_00_stg_terminals создана
+2022-02-05 22:16:03 : в de1h.s_00_stg_terminals 0 записей
+2022-02-05 22:17:44 : passport_blacklist_03032021.xlsx,terminals_03032021.xlsx,transactions_03032021.txt готовы к обработке
+2022-02-05 22:17:45 : Таблица de1h.s_00_stg_terminals удалена
+2022-02-05 22:17:45 : de1h.s_00_stg_terminals создана
+2022-02-05 22:17:45 : в de1h.s_00_stg_terminals 0 записей
+2022-02-05 22:17:46 : terminals_03032021.xlsxзагружен в датафрейм
+2022-02-05 22:17:46 : Данные загружены в de1h.s_00_stg_terminals, загружено 150 записей
+2022-02-05 22:17:46 : Таблица de1h.s_00_stg_new_terminals удалена
+2022-02-05 22:17:46 : de1h.s_00_stg_new_terminals создана, загружено 0 записей
+2022-02-05 22:17:47 : Таблица de1h.s_00_stg_del_terminals удалена
+2022-02-05 22:17:47 : de1h.s_00_stg_del_terminals создана, загружено 2 записей
+2022-02-05 22:17:47 : Таблица de1h.s_00_stg_chenge_terminals удалена
+2022-02-05 22:17:47 : de1h.s_00_stg_chenge_terminals создана, загружено 3 записей
+2022-02-05 22:17:47 : Загрузка данных в основную таблицу терминалов de1h.s_00_dwh_dim_terminals_hist
+2022-02-05 22:17:48 : поля effective_to для записей de1h.s_00_dwh_dim_terminals_hist обновлены на основании de1h.s_00_stg_chenge_terminals, обновлено 3 записей
+2022-02-05 22:17:48 : поля effective_to для записей de1h.s_00_dwh_dim_terminals_hist обновлены на основании de1h.s_00_stg_del_terminals, обновлено 2 записей
+2022-02-05 22:17:48 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_new_terminals, обновлено 0 записей
+2022-02-05 22:17:48 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_chenge_terminals, обновлено 3 записей
+2022-02-05 22:17:48 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_del_terminals, обновлено 2 записей
+2022-02-05 22:18:16 : passport_blacklist_03032021.xlsx,terminals_03032021.xlsx,transactions_03032021.txt готовы к обработке
+2022-02-05 22:18:18 : Таблица de1h.s_00_stg_terminals удалена
+2022-02-05 22:18:18 : de1h.s_00_stg_terminals создана
+2022-02-05 22:18:18 : в de1h.s_00_stg_terminals 0 записей
+2022-02-05 22:18:19 : terminals_03032021.xlsxзагружен в датафрейм
+2022-02-05 22:18:19 : Данные загружены в de1h.s_00_stg_terminals, загружено 150 записей
+2022-02-05 22:18:19 : Таблица de1h.s_00_stg_new_terminals удалена
+2022-02-05 22:18:20 : de1h.s_00_stg_new_terminals создана, загружено 0 записей
+2022-02-05 22:18:20 : Таблица de1h.s_00_stg_del_terminals удалена
+2022-02-05 22:18:21 : de1h.s_00_stg_del_terminals создана, загружено 4 записей
+2022-02-05 22:18:21 : Таблица de1h.s_00_stg_chenge_terminals удалена
+2022-02-05 22:18:21 : de1h.s_00_stg_chenge_terminals создана, загружено 3 записей
+2022-02-05 22:18:21 : Загрузка данных в основную таблицу терминалов de1h.s_00_dwh_dim_terminals_hist
+2022-02-05 22:18:22 : поля effective_to для записей de1h.s_00_dwh_dim_terminals_hist обновлены на основании de1h.s_00_stg_chenge_terminals, обновлено 3 записей
+2022-02-05 22:18:22 : поля effective_to для записей de1h.s_00_dwh_dim_terminals_hist обновлены на основании de1h.s_00_stg_del_terminals, обновлено 4 записей
+2022-02-05 22:18:22 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_new_terminals, обновлено 0 записей
+2022-02-05 22:18:23 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_chenge_terminals, обновлено 3 записей
+2022-02-05 22:18:23 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_del_terminals, обновлено 4 записей
+2022-02-05 22:22:05 : passport_blacklist_03032021.xlsx,terminals_03032021.xlsx,transactions_03032021.txt готовы к обработке
+2022-02-05 22:22:06 : Таблица de1h.s_00_stg_terminals удалена
+2022-02-05 22:22:06 : de1h.s_00_stg_terminals создана
+2022-02-05 22:22:07 : в de1h.s_00_stg_terminals 0 записей
+2022-02-05 22:22:07 : terminals_03032021.xlsxзагружен в датафрейм
+2022-02-05 22:22:08 : Данные загружены в de1h.s_00_stg_terminals, загружено 150 записей
+2022-02-05 22:22:08 : Таблица de1h.s_00_stg_new_terminals удалена
+2022-02-05 22:22:08 : de1h.s_00_stg_new_terminals создана, загружено 0 записей
+2022-02-05 22:22:09 : Таблица de1h.s_00_stg_del_terminals удалена
+2022-02-05 22:22:09 : de1h.s_00_stg_del_terminals создана, загружено 1 записей
+2022-02-05 22:22:09 : Таблица de1h.s_00_stg_chenge_terminals удалена
+2022-02-05 22:22:10 : de1h.s_00_stg_chenge_terminals создана, загружено 3 записей
+2022-02-05 22:22:10 : Загрузка данных в основную таблицу терминалов de1h.s_00_dwh_dim_terminals_hist
+2022-02-05 22:22:10 : поля effective_to для записей de1h.s_00_dwh_dim_terminals_hist обновлены на основании de1h.s_00_stg_chenge_terminals, обновлено 3 записей
+2022-02-05 22:22:10 : поля effective_to для записей de1h.s_00_dwh_dim_terminals_hist обновлены на основании de1h.s_00_stg_del_terminals, обновлено 1 записей
+2022-02-05 22:22:10 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_new_terminals, обновлено 0 записей
+2022-02-05 22:22:10 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_chenge_terminals, обновлено 3 записей
+2022-02-05 22:22:11 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_del_terminals, обновлено 1 записей
+2022-02-05 22:24:09 : passport_blacklist_03032021.xlsx,terminals_03032021.xlsx,transactions_03032021.txt готовы к обработке
+2022-02-05 22:24:10 : Таблица de1h.s_00_stg_terminals удалена
+2022-02-05 22:24:10 : de1h.s_00_stg_terminals создана
+2022-02-05 22:24:10 : в de1h.s_00_stg_terminals 0 записей
+2022-02-05 22:24:11 : terminals_03032021.xlsxзагружен в датафрейм
+2022-02-05 22:24:11 : Данные загружены в de1h.s_00_stg_terminals, загружено 150 записей
+2022-02-05 22:24:11 : Таблица de1h.s_00_stg_new_terminals удалена
+2022-02-05 22:24:12 : de1h.s_00_stg_new_terminals создана, загружено 0 записей
+2022-02-05 22:24:12 : Таблица de1h.s_00_stg_del_terminals удалена
+2022-02-05 22:24:12 : de1h.s_00_stg_del_terminals создана, загружено 1 записей
+2022-02-05 22:24:12 : Таблица de1h.s_00_stg_chenge_terminals удалена
+2022-02-05 22:24:12 : de1h.s_00_stg_chenge_terminals создана, загружено 3 записей
+2022-02-05 22:24:12 : Загрузка данных в основную таблицу терминалов de1h.s_00_dwh_dim_terminals_hist
+2022-02-05 22:24:13 : поля effective_to для записей de1h.s_00_dwh_dim_terminals_hist обновлены на основании de1h.s_00_stg_chenge_terminals, обновлено 3 записей
+2022-02-05 22:24:13 : поля effective_to для записей de1h.s_00_dwh_dim_terminals_hist обновлены на основании de1h.s_00_stg_del_terminals, обновлено 1 записей
+2022-02-05 22:24:13 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_new_terminals, обновлено 0 записей
+2022-02-05 22:24:13 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_chenge_terminals, обновлено 3 записей
+2022-02-05 22:24:13 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_del_terminals, обновлено 1 записей
+2022-02-05 22:24:44 : passport_blacklist_03032021.xlsx,terminals_03032021.xlsx,transactions_03032021.txt готовы к обработке
+2022-02-05 22:24:45 : Таблица de1h.s_00_stg_terminals удалена
+2022-02-05 22:24:45 : de1h.s_00_stg_terminals создана
+2022-02-05 22:24:45 : в de1h.s_00_stg_terminals 0 записей
+2022-02-05 22:24:46 : terminals_03032021.xlsxзагружен в датафрейм
+2022-02-05 22:24:46 : Данные загружены в de1h.s_00_stg_terminals, загружено 150 записей
+2022-02-05 22:24:46 : Таблица de1h.s_00_stg_new_terminals удалена
+2022-02-05 22:24:47 : de1h.s_00_stg_new_terminals создана, загружено 0 записей
+2022-02-05 22:24:47 : Таблица de1h.s_00_stg_del_terminals удалена
+2022-02-05 22:24:47 : de1h.s_00_stg_del_terminals создана, загружено 0 записей
+2022-02-05 22:24:47 : Таблица de1h.s_00_stg_chenge_terminals удалена
+2022-02-05 22:24:47 : de1h.s_00_stg_chenge_terminals создана, загружено 3 записей
+2022-02-05 22:24:47 : Загрузка данных в основную таблицу терминалов de1h.s_00_dwh_dim_terminals_hist
+2022-02-05 22:24:48 : поля effective_to для записей de1h.s_00_dwh_dim_terminals_hist обновлены на основании de1h.s_00_stg_chenge_terminals, обновлено 3 записей
+2022-02-05 22:24:48 : поля effective_to для записей de1h.s_00_dwh_dim_terminals_hist обновлены на основании de1h.s_00_stg_del_terminals, обновлено 0 записей
+2022-02-05 22:24:48 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_new_terminals, обновлено 0 записей
+2022-02-05 22:24:48 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_chenge_terminals, обновлено 3 записей
+2022-02-05 22:24:48 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_del_terminals, обновлено 0 записей
+2022-02-05 22:29:50 : passport_blacklist_01032021.xlsx,terminals_01032021.xlsx,transactions_01032021.txt готовы к обработке
+2022-02-05 22:29:51 : Таблица de1h.s_00_dwh_dim_terminals_hist удалена
+2022-02-05 22:29:51 : de1h.s_00_dwh_dim_terminals_hist создана
+2022-02-05 22:29:51 : Таблица de1h.s_00_stg_terminals удалена
+2022-02-05 22:29:51 : de1h.s_00_stg_terminals создана
+2022-02-05 22:29:51 : в de1h.s_00_stg_terminals 0 записей
+2022-02-05 22:29:52 : terminals_01032021.xlsxзагружен в датафрейм
+2022-02-05 22:29:52 : Данные загружены в de1h.s_00_stg_terminals, загружено 150 записей
+2022-02-05 22:29:52 : Таблица de1h.s_00_stg_new_terminals удалена
+2022-02-05 22:29:52 : de1h.s_00_stg_new_terminals создана, загружено 150 записей
+2022-02-05 22:29:53 : Таблица de1h.s_00_stg_del_terminals удалена
+2022-02-05 22:29:53 : de1h.s_00_stg_del_terminals создана, загружено 0 записей
+2022-02-05 22:29:53 : Таблица de1h.s_00_stg_chenge_terminals удалена
+2022-02-05 22:29:53 : de1h.s_00_stg_chenge_terminals создана, загружено 0 записей
+2022-02-05 22:29:53 : Загрузка данных в основную таблицу терминалов de1h.s_00_dwh_dim_terminals_hist
+2022-02-05 22:29:53 : поля effective_to для записей de1h.s_00_dwh_dim_terminals_hist обновлены на основании de1h.s_00_stg_chenge_terminals, обновлено 0 записей
+2022-02-05 22:29:54 : поля effective_to для записей de1h.s_00_dwh_dim_terminals_hist обновлены на основании de1h.s_00_stg_del_terminals, обновлено 0 записей
+2022-02-05 22:29:54 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_new_terminals, обновлено 150 записей
+2022-02-05 22:29:54 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_chenge_terminals, обновлено 0 записей
+2022-02-05 22:29:54 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_del_terminals, обновлено 0 записей
+2022-02-05 22:30:13 : passport_blacklist_01032021.xlsx,terminals_02032021.xlsx,transactions_01032021.txt готовы к обработке
+2022-02-05 22:30:13 : Таблица de1h.s_00_dwh_dim_terminals_hist удалена
+2022-02-05 22:30:14 : de1h.s_00_dwh_dim_terminals_hist создана
+2022-02-05 22:30:14 : Таблица de1h.s_00_stg_terminals удалена
+2022-02-05 22:30:14 : de1h.s_00_stg_terminals создана
+2022-02-05 22:30:14 : в de1h.s_00_stg_terminals 0 записей
+2022-02-05 22:30:15 : terminals_02032021.xlsxзагружен в датафрейм
+2022-02-05 22:30:15 : Данные загружены в de1h.s_00_stg_terminals, загружено 151 записей
+2022-02-05 22:30:15 : Таблица de1h.s_00_stg_new_terminals удалена
+2022-02-05 22:30:15 : de1h.s_00_stg_new_terminals создана, загружено 151 записей
+2022-02-05 22:30:16 : Таблица de1h.s_00_stg_del_terminals удалена
+2022-02-05 22:30:16 : de1h.s_00_stg_del_terminals создана, загружено 0 записей
+2022-02-05 22:30:16 : Таблица de1h.s_00_stg_chenge_terminals удалена
+2022-02-05 22:30:16 : de1h.s_00_stg_chenge_terminals создана, загружено 0 записей
+2022-02-05 22:30:16 : Загрузка данных в основную таблицу терминалов de1h.s_00_dwh_dim_terminals_hist
+2022-02-05 22:30:16 : поля effective_to для записей de1h.s_00_dwh_dim_terminals_hist обновлены на основании de1h.s_00_stg_chenge_terminals, обновлено 0 записей
+2022-02-05 22:30:16 : поля effective_to для записей de1h.s_00_dwh_dim_terminals_hist обновлены на основании de1h.s_00_stg_del_terminals, обновлено 0 записей
+2022-02-05 22:30:17 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_new_terminals, обновлено 151 записей
+2022-02-05 22:30:17 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_chenge_terminals, обновлено 0 записей
+2022-02-05 22:30:17 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_del_terminals, обновлено 0 записей
+2022-02-05 22:30:36 : passport_blacklist_01032021.xlsx,terminals_01032021.xlsx,transactions_01032021.txt готовы к обработке
+2022-02-05 22:30:37 : Таблица de1h.s_00_dwh_dim_terminals_hist удалена
+2022-02-05 22:30:37 : de1h.s_00_dwh_dim_terminals_hist создана
+2022-02-05 22:30:37 : Таблица de1h.s_00_stg_terminals удалена
+2022-02-05 22:30:37 : de1h.s_00_stg_terminals создана
+2022-02-05 22:30:37 : в de1h.s_00_stg_terminals 0 записей
+2022-02-05 22:30:38 : terminals_01032021.xlsxзагружен в датафрейм
+2022-02-05 22:30:38 : Данные загружены в de1h.s_00_stg_terminals, загружено 150 записей
+2022-02-05 22:30:38 : Таблица de1h.s_00_stg_new_terminals удалена
+2022-02-05 22:30:39 : de1h.s_00_stg_new_terminals создана, загружено 150 записей
+2022-02-05 22:30:39 : Таблица de1h.s_00_stg_del_terminals удалена
+2022-02-05 22:30:40 : de1h.s_00_stg_del_terminals создана, загружено 0 записей
+2022-02-05 22:30:40 : Таблица de1h.s_00_stg_chenge_terminals удалена
+2022-02-05 22:30:40 : de1h.s_00_stg_chenge_terminals создана, загружено 0 записей
+2022-02-05 22:30:40 : Загрузка данных в основную таблицу терминалов de1h.s_00_dwh_dim_terminals_hist
+2022-02-05 22:30:40 : поля effective_to для записей de1h.s_00_dwh_dim_terminals_hist обновлены на основании de1h.s_00_stg_chenge_terminals, обновлено 0 записей
+2022-02-05 22:30:41 : поля effective_to для записей de1h.s_00_dwh_dim_terminals_hist обновлены на основании de1h.s_00_stg_del_terminals, обновлено 0 записей
+2022-02-05 22:30:41 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_new_terminals, обновлено 150 записей
+2022-02-05 22:30:41 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_chenge_terminals, обновлено 0 записей
+2022-02-05 22:30:41 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_del_terminals, обновлено 0 записей
+2022-02-05 22:30:58 : passport_blacklist_01032021.xlsx,terminals_01032021.xlsx,transactions_01032021.txt готовы к обработке
+2022-02-05 22:30:59 : Таблица de1h.s_00_stg_terminals удалена
+2022-02-05 22:30:59 : de1h.s_00_stg_terminals создана
+2022-02-05 22:30:59 : в de1h.s_00_stg_terminals 0 записей
+2022-02-05 22:31:00 : terminals_01032021.xlsxзагружен в датафрейм
+2022-02-05 22:31:00 : Данные загружены в de1h.s_00_stg_terminals, загружено 150 записей
+2022-02-05 22:31:00 : Таблица de1h.s_00_stg_new_terminals удалена
+2022-02-05 22:31:00 : de1h.s_00_stg_new_terminals создана, загружено 0 записей
+2022-02-05 22:31:01 : Таблица de1h.s_00_stg_del_terminals удалена
+2022-02-05 22:31:01 : de1h.s_00_stg_del_terminals создана, загружено 0 записей
+2022-02-05 22:31:01 : Таблица de1h.s_00_stg_chenge_terminals удалена
+2022-02-05 22:31:02 : de1h.s_00_stg_chenge_terminals создана, загружено 0 записей
+2022-02-05 22:31:02 : Загрузка данных в основную таблицу терминалов de1h.s_00_dwh_dim_terminals_hist
+2022-02-05 22:31:02 : поля effective_to для записей de1h.s_00_dwh_dim_terminals_hist обновлены на основании de1h.s_00_stg_chenge_terminals, обновлено 0 записей
+2022-02-05 22:31:02 : поля effective_to для записей de1h.s_00_dwh_dim_terminals_hist обновлены на основании de1h.s_00_stg_del_terminals, обновлено 0 записей
+2022-02-05 22:31:02 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_new_terminals, обновлено 0 записей
+2022-02-05 22:31:02 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_chenge_terminals, обновлено 0 записей
+2022-02-05 22:31:02 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_del_terminals, обновлено 0 записей
+2022-02-05 22:31:17 : passport_blacklist_01032021.xlsx,terminals_02032021.xlsx,transactions_01032021.txt готовы к обработке
+2022-02-05 22:31:18 : Таблица de1h.s_00_stg_terminals удалена
+2022-02-05 22:31:18 : de1h.s_00_stg_terminals создана
+2022-02-05 22:31:18 : в de1h.s_00_stg_terminals 0 записей
+2022-02-05 22:31:19 : terminals_02032021.xlsxзагружен в датафрейм
+2022-02-05 22:31:19 : Данные загружены в de1h.s_00_stg_terminals, загружено 151 записей
+2022-02-05 22:31:20 : Таблица de1h.s_00_stg_new_terminals удалена
+2022-02-05 22:31:20 : de1h.s_00_stg_new_terminals создана, загружено 1 записей
+2022-02-05 22:31:20 : Таблица de1h.s_00_stg_del_terminals удалена
+2022-02-05 22:31:20 : de1h.s_00_stg_del_terminals создана, загружено 0 записей
+2022-02-05 22:31:20 : Таблица de1h.s_00_stg_chenge_terminals удалена
+2022-02-05 22:31:21 : de1h.s_00_stg_chenge_terminals создана, загружено 2 записей
+2022-02-05 22:31:21 : Загрузка данных в основную таблицу терминалов de1h.s_00_dwh_dim_terminals_hist
+2022-02-05 22:31:21 : поля effective_to для записей de1h.s_00_dwh_dim_terminals_hist обновлены на основании de1h.s_00_stg_chenge_terminals, обновлено 2 записей
+2022-02-05 22:31:21 : поля effective_to для записей de1h.s_00_dwh_dim_terminals_hist обновлены на основании de1h.s_00_stg_del_terminals, обновлено 0 записей
+2022-02-05 22:31:21 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_new_terminals, обновлено 1 записей
+2022-02-05 22:31:22 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_chenge_terminals, обновлено 2 записей
+2022-02-05 22:31:22 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_del_terminals, обновлено 0 записей
+2022-02-05 22:32:08 : passport_blacklist_01032021.xlsx,terminals_02032021.xlsx,transactions_01032021.txt готовы к обработке
+2022-02-05 22:32:09 : Таблица de1h.s_00_stg_terminals удалена
+2022-02-05 22:32:09 : de1h.s_00_stg_terminals создана
+2022-02-05 22:32:09 : в de1h.s_00_stg_terminals 0 записей
+2022-02-05 22:32:10 : terminals_02032021.xlsxзагружен в датафрейм
+2022-02-05 22:32:11 : Данные загружены в de1h.s_00_stg_terminals, загружено 151 записей
+2022-02-05 22:32:11 : Таблица de1h.s_00_stg_new_terminals удалена
+2022-02-05 22:32:11 : de1h.s_00_stg_new_terminals создана, загружено 0 записей
+2022-02-05 22:32:11 : Таблица de1h.s_00_stg_del_terminals удалена
+2022-02-05 22:32:11 : de1h.s_00_stg_del_terminals создана, загружено 0 записей
+2022-02-05 22:32:12 : Таблица de1h.s_00_stg_chenge_terminals удалена
+2022-02-05 22:32:12 : de1h.s_00_stg_chenge_terminals создана, загружено 2 записей
+2022-02-05 22:32:12 : Загрузка данных в основную таблицу терминалов de1h.s_00_dwh_dim_terminals_hist
+2022-02-05 22:32:12 : поля effective_to для записей de1h.s_00_dwh_dim_terminals_hist обновлены на основании de1h.s_00_stg_chenge_terminals, обновлено 2 записей
+2022-02-05 22:32:12 : поля effective_to для записей de1h.s_00_dwh_dim_terminals_hist обновлены на основании de1h.s_00_stg_del_terminals, обновлено 0 записей
+2022-02-05 22:32:12 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_new_terminals, обновлено 0 записей
+2022-02-05 22:32:13 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_chenge_terminals, обновлено 2 записей
+2022-02-05 22:32:13 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_del_terminals, обновлено 0 записей
+2022-02-05 22:33:42 : passport_blacklist_01032021.xlsx,terminals_02032021.xlsx,transactions_01032021.txt готовы к обработке
+2022-02-05 22:33:44 : Таблица de1h.s_00_stg_terminals удалена
+2022-02-05 22:33:44 : de1h.s_00_stg_terminals создана
+2022-02-05 22:33:44 : в de1h.s_00_stg_terminals 0 записей
+2022-02-05 22:33:45 : terminals_02032021.xlsxзагружен в датафрейм
+2022-02-05 22:33:45 : Данные загружены в de1h.s_00_stg_terminals, загружено 151 записей
+2022-02-05 22:33:45 : Таблица de1h.s_00_stg_new_terminals удалена
+2022-02-05 22:33:46 : de1h.s_00_stg_new_terminals создана, загружено 0 записей
+2022-02-05 22:33:46 : Таблица de1h.s_00_stg_del_terminals удалена
+2022-02-05 22:33:46 : de1h.s_00_stg_del_terminals создана, загружено 0 записей
+2022-02-05 22:33:46 : Таблица de1h.s_00_stg_chenge_terminals удалена
+2022-02-05 22:33:47 : de1h.s_00_stg_chenge_terminals создана, загружено 0 записей
+2022-02-05 22:33:47 : Загрузка данных в основную таблицу терминалов de1h.s_00_dwh_dim_terminals_hist
+2022-02-05 22:33:47 : поля effective_to для записей de1h.s_00_dwh_dim_terminals_hist обновлены на основании de1h.s_00_stg_chenge_terminals, обновлено 0 записей
+2022-02-05 22:33:47 : поля effective_to для записей de1h.s_00_dwh_dim_terminals_hist обновлены на основании de1h.s_00_stg_del_terminals, обновлено 0 записей
+2022-02-05 22:33:47 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_new_terminals, обновлено 0 записей
+2022-02-05 22:33:47 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_chenge_terminals, обновлено 0 записей
+2022-02-05 22:33:48 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_del_terminals, обновлено 0 записей
+2022-02-05 22:34:30 : passport_blacklist_01032021.xlsx,terminals_01032021.xlsx,transactions_01032021.txt готовы к обработке
+2022-02-05 22:34:31 : Таблица de1h.s_00_dwh_dim_terminals_hist удалена
+2022-02-05 22:34:31 : de1h.s_00_dwh_dim_terminals_hist создана
+2022-02-05 22:34:31 : Таблица de1h.s_00_stg_terminals удалена
+2022-02-05 22:34:32 : de1h.s_00_stg_terminals создана
+2022-02-05 22:34:33 : в de1h.s_00_stg_terminals 0 записей
+2022-02-05 22:34:34 : terminals_01032021.xlsxзагружен в датафрейм
+2022-02-05 22:34:35 : Данные загружены в de1h.s_00_stg_terminals, загружено 150 записей
+2022-02-05 22:34:35 : Таблица de1h.s_00_stg_new_terminals удалена
+2022-02-05 22:34:35 : de1h.s_00_stg_new_terminals создана, загружено 150 записей
+2022-02-05 22:34:36 : Таблица de1h.s_00_stg_del_terminals удалена
+2022-02-05 22:34:36 : de1h.s_00_stg_del_terminals создана, загружено 0 записей
+2022-02-05 22:34:37 : Таблица de1h.s_00_stg_chenge_terminals удалена
+2022-02-05 22:34:37 : de1h.s_00_stg_chenge_terminals создана, загружено 0 записей
+2022-02-05 22:34:37 : Загрузка данных в основную таблицу терминалов de1h.s_00_dwh_dim_terminals_hist
+2022-02-05 22:34:37 : поля effective_to для записей de1h.s_00_dwh_dim_terminals_hist обновлены на основании de1h.s_00_stg_chenge_terminals, обновлено 0 записей
+2022-02-05 22:34:37 : поля effective_to для записей de1h.s_00_dwh_dim_terminals_hist обновлены на основании de1h.s_00_stg_del_terminals, обновлено 0 записей
+2022-02-05 22:34:38 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_new_terminals, обновлено 150 записей
+2022-02-05 22:34:38 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_chenge_terminals, обновлено 0 записей
+2022-02-05 22:34:38 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_del_terminals, обновлено 0 записей
+2022-02-05 22:34:49 : passport_blacklist_01032021.xlsx,terminals_01032021.xlsx,transactions_01032021.txt готовы к обработке
+2022-02-05 22:34:51 : Таблица de1h.s_00_stg_terminals удалена
+2022-02-05 22:34:51 : de1h.s_00_stg_terminals создана
+2022-02-05 22:34:51 : в de1h.s_00_stg_terminals 0 записей
+2022-02-05 22:34:52 : terminals_01032021.xlsxзагружен в датафрейм
+2022-02-05 22:34:52 : Данные загружены в de1h.s_00_stg_terminals, загружено 150 записей
+2022-02-05 22:34:52 : Таблица de1h.s_00_stg_new_terminals удалена
+2022-02-05 22:34:52 : de1h.s_00_stg_new_terminals создана, загружено 0 записей
+2022-02-05 22:34:53 : Таблица de1h.s_00_stg_del_terminals удалена
+2022-02-05 22:34:54 : de1h.s_00_stg_del_terminals создана, загружено 0 записей
+2022-02-05 22:34:54 : Таблица de1h.s_00_stg_chenge_terminals удалена
+2022-02-05 22:34:54 : de1h.s_00_stg_chenge_terminals создана, загружено 0 записей
+2022-02-05 22:34:54 : Загрузка данных в основную таблицу терминалов de1h.s_00_dwh_dim_terminals_hist
+2022-02-05 22:34:55 : поля effective_to для записей de1h.s_00_dwh_dim_terminals_hist обновлены на основании de1h.s_00_stg_chenge_terminals, обновлено 0 записей
+2022-02-05 22:34:55 : поля effective_to для записей de1h.s_00_dwh_dim_terminals_hist обновлены на основании de1h.s_00_stg_del_terminals, обновлено 0 записей
+2022-02-05 22:34:55 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_new_terminals, обновлено 0 записей
+2022-02-05 22:34:55 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_chenge_terminals, обновлено 0 записей
+2022-02-05 22:34:55 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_del_terminals, обновлено 0 записей
+2022-02-05 22:35:12 : passport_blacklist_01032021.xlsx,terminals_02032021.xlsx,transactions_01032021.txt готовы к обработке
+2022-02-05 22:35:13 : Таблица de1h.s_00_stg_terminals удалена
+2022-02-05 22:35:13 : de1h.s_00_stg_terminals создана
+2022-02-05 22:35:13 : в de1h.s_00_stg_terminals 0 записей
+2022-02-05 22:35:14 : terminals_02032021.xlsxзагружен в датафрейм
+2022-02-05 22:35:14 : Данные загружены в de1h.s_00_stg_terminals, загружено 151 записей
+2022-02-05 22:35:14 : Таблица de1h.s_00_stg_new_terminals удалена
+2022-02-05 22:35:14 : de1h.s_00_stg_new_terminals создана, загружено 1 записей
+2022-02-05 22:35:15 : Таблица de1h.s_00_stg_del_terminals удалена
+2022-02-05 22:35:15 : de1h.s_00_stg_del_terminals создана, загружено 0 записей
+2022-02-05 22:35:15 : Таблица de1h.s_00_stg_chenge_terminals удалена
+2022-02-05 22:35:15 : de1h.s_00_stg_chenge_terminals создана, загружено 2 записей
+2022-02-05 22:35:15 : Загрузка данных в основную таблицу терминалов de1h.s_00_dwh_dim_terminals_hist
+2022-02-05 22:35:15 : поля effective_to для записей de1h.s_00_dwh_dim_terminals_hist обновлены на основании de1h.s_00_stg_chenge_terminals, обновлено 2 записей
+2022-02-05 22:35:16 : поля effective_to для записей de1h.s_00_dwh_dim_terminals_hist обновлены на основании de1h.s_00_stg_del_terminals, обновлено 0 записей
+2022-02-05 22:35:16 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_new_terminals, обновлено 1 записей
+2022-02-05 22:35:16 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_chenge_terminals, обновлено 2 записей
+2022-02-05 22:35:16 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_del_terminals, обновлено 0 записей
+2022-02-05 22:35:27 : passport_blacklist_01032021.xlsx,terminals_02032021.xlsx,transactions_01032021.txt готовы к обработке
+2022-02-05 22:35:27 : Таблица de1h.s_00_stg_terminals удалена
+2022-02-05 22:35:27 : de1h.s_00_stg_terminals создана
+2022-02-05 22:35:28 : в de1h.s_00_stg_terminals 0 записей
+2022-02-05 22:35:28 : terminals_02032021.xlsxзагружен в датафрейм
+2022-02-05 22:35:29 : Данные загружены в de1h.s_00_stg_terminals, загружено 151 записей
+2022-02-05 22:35:29 : Таблица de1h.s_00_stg_new_terminals удалена
+2022-02-05 22:35:29 : de1h.s_00_stg_new_terminals создана, загружено 0 записей
+2022-02-05 22:35:29 : Таблица de1h.s_00_stg_del_terminals удалена
+2022-02-05 22:35:30 : de1h.s_00_stg_del_terminals создана, загружено 0 записей
+2022-02-05 22:35:30 : Таблица de1h.s_00_stg_chenge_terminals удалена
+2022-02-05 22:35:30 : de1h.s_00_stg_chenge_terminals создана, загружено 0 записей
+2022-02-05 22:35:30 : Загрузка данных в основную таблицу терминалов de1h.s_00_dwh_dim_terminals_hist
+2022-02-05 22:35:30 : поля effective_to для записей de1h.s_00_dwh_dim_terminals_hist обновлены на основании de1h.s_00_stg_chenge_terminals, обновлено 0 записей
+2022-02-05 22:35:31 : поля effective_to для записей de1h.s_00_dwh_dim_terminals_hist обновлены на основании de1h.s_00_stg_del_terminals, обновлено 0 записей
+2022-02-05 22:35:31 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_new_terminals, обновлено 0 записей
+2022-02-05 22:35:31 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_chenge_terminals, обновлено 0 записей
+2022-02-05 22:35:31 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_del_terminals, обновлено 0 записей
+2022-02-05 22:35:47 : passport_blacklist_01032021.xlsx,terminals_03032021.xlsx,transactions_01032021.txt готовы к обработке
+2022-02-05 22:35:48 : Таблица de1h.s_00_stg_terminals удалена
+2022-02-05 22:35:48 : de1h.s_00_stg_terminals создана
+2022-02-05 22:35:49 : в de1h.s_00_stg_terminals 0 записей
+2022-02-05 22:35:49 : terminals_03032021.xlsxзагружен в датафрейм
+2022-02-05 22:35:49 : Данные загружены в de1h.s_00_stg_terminals, загружено 150 записей
+2022-02-05 22:35:49 : Таблица de1h.s_00_stg_new_terminals удалена
+2022-02-05 22:35:50 : de1h.s_00_stg_new_terminals создана, загружено 0 записей
+2022-02-05 22:35:50 : Таблица de1h.s_00_stg_del_terminals удалена
+2022-02-05 22:35:50 : de1h.s_00_stg_del_terminals создана, загружено 1 записей
+2022-02-05 22:35:50 : Таблица de1h.s_00_stg_chenge_terminals удалена
+2022-02-05 22:35:51 : de1h.s_00_stg_chenge_terminals создана, загружено 1 записей
+2022-02-05 22:35:51 : Загрузка данных в основную таблицу терминалов de1h.s_00_dwh_dim_terminals_hist
+2022-02-05 22:35:51 : поля effective_to для записей de1h.s_00_dwh_dim_terminals_hist обновлены на основании de1h.s_00_stg_chenge_terminals, обновлено 1 записей
+2022-02-05 22:35:51 : поля effective_to для записей de1h.s_00_dwh_dim_terminals_hist обновлены на основании de1h.s_00_stg_del_terminals, обновлено 1 записей
+2022-02-05 22:35:52 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_new_terminals, обновлено 0 записей
+2022-02-05 22:35:52 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_chenge_terminals, обновлено 1 записей
+2022-02-05 22:35:52 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_del_terminals, обновлено 1 записей
+2022-02-05 22:36:04 : passport_blacklist_01032021.xlsx,terminals_03032021.xlsx,transactions_01032021.txt готовы к обработке
+2022-02-05 22:36:06 : Таблица de1h.s_00_stg_terminals удалена
+2022-02-05 22:36:06 : de1h.s_00_stg_terminals создана
+2022-02-05 22:36:06 : в de1h.s_00_stg_terminals 0 записей
+2022-02-05 22:36:07 : terminals_03032021.xlsxзагружен в датафрейм
+2022-02-05 22:36:07 : Данные загружены в de1h.s_00_stg_terminals, загружено 150 записей
+2022-02-05 22:36:07 : Таблица de1h.s_00_stg_new_terminals удалена
+2022-02-05 22:36:08 : de1h.s_00_stg_new_terminals создана, загружено 0 записей
+2022-02-05 22:36:09 : Таблица de1h.s_00_stg_del_terminals удалена
+2022-02-05 22:36:10 : de1h.s_00_stg_del_terminals создана, загружено 0 записей
+2022-02-05 22:36:10 : Таблица de1h.s_00_stg_chenge_terminals удалена
+2022-02-05 22:36:10 : de1h.s_00_stg_chenge_terminals создана, загружено 0 записей
+2022-02-05 22:36:10 : Загрузка данных в основную таблицу терминалов de1h.s_00_dwh_dim_terminals_hist
+2022-02-05 22:36:10 : поля effective_to для записей de1h.s_00_dwh_dim_terminals_hist обновлены на основании de1h.s_00_stg_chenge_terminals, обновлено 0 записей
+2022-02-05 22:36:10 : поля effective_to для записей de1h.s_00_dwh_dim_terminals_hist обновлены на основании de1h.s_00_stg_del_terminals, обновлено 0 записей
+2022-02-05 22:36:11 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_new_terminals, обновлено 0 записей
+2022-02-05 22:36:11 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_chenge_terminals, обновлено 0 записей
+2022-02-05 22:36:11 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_del_terminals, обновлено 0 записей
+2022-02-05 22:36:33 : passport_blacklist_01032021.xlsx,terminals_03032021.xlsx,transactions_01032021.txt готовы к обработке
+2022-02-05 22:36:34 : Таблица de1h.s_00_stg_terminals удалена
+2022-02-05 22:36:34 : de1h.s_00_stg_terminals создана
+2022-02-05 22:36:35 : в de1h.s_00_stg_terminals 0 записей
+2022-02-05 22:36:35 : terminals_03032021.xlsxзагружен в датафрейм
+2022-02-05 22:36:36 : Данные загружены в de1h.s_00_stg_terminals, загружено 150 записей
+2022-02-05 22:36:36 : Таблица de1h.s_00_stg_new_terminals удалена
+2022-02-05 22:36:36 : de1h.s_00_stg_new_terminals создана, загружено 0 записей
+2022-02-05 22:36:36 : Таблица de1h.s_00_stg_del_terminals удалена
+2022-02-05 22:36:37 : de1h.s_00_stg_del_terminals создана, загружено 0 записей
+2022-02-05 22:36:37 : Таблица de1h.s_00_stg_chenge_terminals удалена
+2022-02-05 22:36:37 : de1h.s_00_stg_chenge_terminals создана, загружено 0 записей
+2022-02-05 22:36:37 : Загрузка данных в основную таблицу терминалов de1h.s_00_dwh_dim_terminals_hist
+2022-02-05 22:36:38 : поля effective_to для записей de1h.s_00_dwh_dim_terminals_hist обновлены на основании de1h.s_00_stg_chenge_terminals, обновлено 0 записей
+2022-02-05 22:36:39 : поля effective_to для записей de1h.s_00_dwh_dim_terminals_hist обновлены на основании de1h.s_00_stg_del_terminals, обновлено 0 записей
+2022-02-05 22:36:39 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_new_terminals, обновлено 0 записей
+2022-02-05 22:36:39 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_chenge_terminals, обновлено 0 записей
+2022-02-05 22:36:40 : de1h.s_00_dwh_dim_terminals_hist записи обновлены на основании de1h.s_00_stg_del_terminals, обновлено 0 записей
+2022-02-05 23:57:01 : passport_blacklist_01032021.xlsx,terminals_03032021.xlsx,transactions_01032021.txt готовы к обработке
+2022-02-05 23:57:31 : passport_blacklist_01032021.xlsx,terminals_03032021.xlsx,transactions_01032021.txt готовы к обработке
+2022-02-05 23:58:21 : passport_blacklist_01032021.xlsx,terminals_03032021.xlsx,transactions_01032021.txt готовы к обработке
